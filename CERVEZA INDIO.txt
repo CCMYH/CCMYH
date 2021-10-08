@@ -2839,7 +2839,7 @@ http://mytv.club:8080/unknown/unknown123/34676
 http://mytv.club:8080/unknown/unknown123/5878
 #EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Radio 2" tvg-logo="http://www.camdserver.com/sb_data/files/logo/npo-radio-2.jpg" group-title="MUSICA",NL: NPO Radio 2
 http://mytv.club:8080/unknown/unknown123/5879
-#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO 3FM" tvg-logo="http://www.camdserver.com/sb_data/files/logo/3-fm.jpg" group-title="radio test",NL: NPO 3FM
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO 3FM" tvg-logo="http://www.camdserver.com/sb_data/files/logo/3-fm.jpg" group-title="MUSICA",NL: NPO 3FM
 http://mytv.club:8080/unknown/unknown123/5474
 #EXTINF:-1 tvg-ID="" tvg-name="NL: NPO Radio 4" tvg-logo="http://www.camdserver.com/sb_data/files/logo/npo-radio-4.jpg" group-title="MUSICA",NL: NPO Radio 4
 http://mytv.club:8080/unknown/unknown123/7212
@@ -9755,10 +9755,6 @@ http://odenfull.co:2086/142536/142536/135413
 http://odenfull.co:2086/142536/142536/135414
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: DAZN 2" tvg-logo="https://i.ibb.co/Qc8nb9g/DAZN.png" group-title="OPCION 4",DEP HD: DAZN 2
 http://odenfull.co:2086/142536/142536/135415
-#EXTINF:-1 tvg-id="" tvg-name="PAN: FETV" tvg-logo="" group-title="PANAMA",PAN: FETV
-http://odenfull.co:2086/142536/142536/145895
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD 03" tvg-logo="http://odenfull.co:2086/images/6c37c9b772840e78da16c901e7134cba.png" group-title="COLOMBIA",RCN HD 03
-http://odenfull.co:2086/142536/142536/145919
 #EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="OPCION 4",FORMULA 1 TV
 http://odenfull.co:2086/142536/142536/147718
 #EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 HD ACCES VIP" tvg-logo="http://odenfull.co:2086/images/b4d9970fe4b1a180773c73ef6eba7cfe.png" group-title="OPCION 4",FORMULA 1 HD ACCES VIP
