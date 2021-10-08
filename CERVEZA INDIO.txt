@@ -6752,7 +6752,7 @@ http://mytv.club:8080/unknown/unknown123/3391
 http://mytv.club:8080/unknown/unknown123/3384
 #EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="[" group-title="OPCION 2",ES: LA SEXTA FHD
 http://mytv.club:8080/unknown/unknown123/3392
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="OPCION 2",ES: 7RM FHD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="OPCION 2",ES: 7RM FHD
 http://mytv.club:8080/unknown/unknown123/23076
 #EXTINF:-1 tvg-ID="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="" group-title="OPCION 2",ES: 8TV Madrid
 http://mytv.club:8080/unknown/unknown123/1090
@@ -6778,7 +6778,7 @@ http://mytv.club:8080/unknown/unknown123/2401
 http://mytv.club:8080/unknown/unknown123/23060
 #EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="OPCION 2",ES: 24 HORAS
 http://mytv.club:8080/unknown/unknown123/2630
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Estrenos 2" tvg-logo="" group-title="OPCION 2",ES: M. Estrenos 2
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Estrenos 2" tvg-logo="" group-title="OPCION 2",ES: M. Estrenos 2
 http://mytv.club:8080/unknown/unknown123/23077
 #EXTINF:-1 tvg-ID="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="OPCION 2",ES: A&E
 http://mytv.club:8080/unknown/unknown123/2643
@@ -6792,7 +6792,7 @@ http://mytv.club:8080/unknown/unknown123/2638
 http://mytv.club:8080/unknown/unknown123/23020
 #EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC HD" tvg-logo="" group-title="OPCION 2",ES: AMC HD
 http://mytv.club:8080/unknown/unknown123/3371
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="OPCION 2",ES: Andalucia TV
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="OPCION 2",ES: Andalucia TV
 http://mytv.club:8080/unknown/unknown123/1440
 #EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="" group-title="OPCION 2",ES: Antena3
 http://mytv.club:8080/unknown/unknown123/1097
@@ -6816,7 +6816,7 @@ http://mytv.club:8080/unknown/unknown123/23074
 http://mytv.club:8080/unknown/unknown123/639
 #EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[""]" group-title="OPCION 2",ES: Be MAD TV HD
 http://mytv.club:8080/unknown/unknown123/19209
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga H265" tvg-logo="" group-title="OPCION 2",ES: M. LaLiga H265
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga H265" tvg-logo="" group-title="OPCION 2",ES: M. LaLiga H265
 http://mytv.club:8080/unknown/unknown123/49814
 #EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="OPCION 2",ES: M. LaLiga FHD
 http://mytv.club:8080/unknown/unknown123/23057
@@ -6830,33 +6830,33 @@ http://mytv.club:8080/unknown/unknown123/33150
 http://mytv.club:8080/unknown/unknown123/7181
 #EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLiga 1FHD (event only)
 http://mytv.club:8080/unknown/unknown123/23105
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 2 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 2 (event only)
 http://mytv.club:8080/unknown/unknown123/7182
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLiga 2FHD (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLiga 2FHD (event only)
 http://mytv.club:8080/unknown/unknown123/23104
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 3 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 3 (event only)
 http://mytv.club:8080/unknown/unknown123/7183
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="OPCION 2",ES: M. LaLIga 3FHD (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="OPCION 2",ES: M. LaLIga 3FHD (event only)
 http://mytv.club:8080/unknown/unknown123/34550
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 4 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 4 (event only)
 http://mytv.club:8080/unknown/unknown123/23103
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 5 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 5 (event only)
 http://mytv.club:8080/unknown/unknown123/23102
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 6 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 6 (event only)
 http://mytv.club:8080/unknown/unknown123/23101
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 7 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 7 (event only)
 http://mytv.club:8080/unknown/unknown123/23100
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 8 (event only)
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="OPCION 2",ES: M. LaLIga 8 (event only)
 http://mytv.club:8080/unknown/unknown123/23099
 #EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="OPCION 2",ES: BLAZE
 http://mytv.club:8080/unknown/unknown123/23075
 #EXTINF:-1 tvg-ID="boing.es" tvg-name="ES: Boing" tvg-logo="[""]" group-title="OPCION 2",ES: Boing
 http://mytv.club:8080/unknown/unknown123/2211
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="OPCION 2",ES: Bom Cine HD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="OPCION 2",ES: Bom Cine HD
 http://mytv.club:8080/unknown/unknown123/23073
 #EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[""]" group-title="OPCION 2",ES: C&I
 http://mytv.club:8080/unknown/unknown123/8209
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Cadena Ser" tvg-logo="" group-title="OPCION 2",ES: Cadena Ser
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Cadena Ser" tvg-logo="" group-title="OPCION 2",ES: Cadena Ser
 http://mytv.club:8080/unknown/unknown123/23072
 #EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: Calle 13" tvg-logo="" group-title="OPCION 2",ES: Calle 13
 http://mytv.club:8080/unknown/unknown123/1096
@@ -6864,7 +6864,7 @@ http://mytv.club:8080/unknown/unknown123/1096
 http://mytv.club:8080/unknown/unknown123/23056
 #EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="OPCION 2",ES: CALLE 13 HD
 http://mytv.club:8080/unknown/unknown123/3368
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="OPCION 2",ES: Canal Coccina
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="OPCION 2",ES: Canal Coccina
 http://mytv.club:8080/unknown/unknown123/1103
 #EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="OPCION 2",ES: Canal Decasa
 http://mytv.club:8080/unknown/unknown123/2632
@@ -6880,7 +6880,7 @@ http://mytv.club:8080/unknown/unknown123/8206
 http://mytv.club:8080/unknown/unknown123/1100
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="[""]" group-title="OPCION 2",ES: Classica
 http://mytv.club:8080/unknown/unknown123/2637
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Estrenos 2 HD" tvg-logo="" group-title="OPCION 2",ES: M. Estrenos 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Estrenos 2 HD" tvg-logo="" group-title="OPCION 2",ES: M. Estrenos 2 HD
 http://mytv.club:8080/unknown/unknown123/23069
 #EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[" group-title="OPCION 2",ES: Comedy Central
 http://mytv.club:8080/unknown/unknown123/2633
@@ -6894,7 +6894,7 @@ http://mytv.club:8080/unknown/unknown123/23053
 http://mytv.club:8080/unknown/unknown123/3387
 #EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: Cuatro" tvg-logo="" group-title="OPCION 2",ES: Cuatro
 http://mytv.club:8080/unknown/unknown123/627
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Dcine" tvg-logo="" group-title="OPCION 2",ES: Dcine
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Dcine" tvg-logo="" group-title="OPCION 2",ES: Dcine
 http://mytv.club:8080/unknown/unknown123/634
 #EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="OPCION 2",ES: DISCOVERY CHANNEL FHD
 http://mytv.club:8080/unknown/unknown123/23052
@@ -6964,15 +6964,15 @@ http://mytv.club:8080/unknown/unknown123/2629
 http://mytv.club:8080/unknown/unknown123/623
 #EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: La 2 SD" tvg-logo="[""]" group-title="OPCION 2",ES: La 2 SD
 http://mytv.club:8080/unknown/unknown123/23025
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR H265" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR H265
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR H265" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR H265
 http://mytv.club:8080/unknown/unknown123/49813
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="OPCION 2",ES: La Liga BAR FHD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="OPCION 2",ES: La Liga BAR FHD
 http://mytv.club:8080/unknown/unknown123/23045
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR SD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR SD
 http://mytv.club:8080/unknown/unknown123/34552
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="OPCION 2",ES: La Liga BAR HD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="OPCION 2",ES: La Liga BAR HD
 http://mytv.club:8080/unknown/unknown123/7180
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR M1
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR M1
 http://mytv.club:8080/unknown/unknown123/23065
 #EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M2" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR M2
 http://mytv.club:8080/unknown/unknown123/34553
@@ -6980,11 +6980,11 @@ http://mytv.club:8080/unknown/unknown123/34553
 http://mytv.club:8080/unknown/unknown123/34554
 #EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M4" tvg-logo="" group-title="OPCION 2",ES: La Liga BAR M4
 http://mytv.club:8080/unknown/unknown123/34555
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="OPCION 2",ES: INTERECONOMIA
+#EXTINF:-1 tvg-ID="" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="OPCION 2",ES: INTERECONOMIA
 http://mytv.club:8080/unknown/unknown123/12637
 #EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: La Sexta hd" tvg-logo="[" group-title="OPCION 2",ES: La Sexta hd
 http://mytv.club:8080/unknown/unknown123/628
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Melilla TV" tvg-logo="" group-title="OPCION 2",ES: Melilla TV
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Melilla TV" tvg-logo="" group-title="OPCION 2",ES: Melilla TV
 http://mytv.club:8080/unknown/unknown123/12636
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Levante TV" tvg-logo="" group-title="OPCION 2",ES: Levante TV
 http://mytv.club:8080/unknown/unknown123/2640
@@ -7008,19 +7008,19 @@ http://mytv.club:8080/unknown/unknown123/23041
 http://mytv.club:8080/unknown/unknown123/2407
 #EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="" group-title="OPCION 2",ES: M. Deportes
 http://mytv.club:8080/unknown/unknown123/636
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 1
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 1
 http://mytv.club:8080/unknown/unknown123/23094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 1 FHD
 http://mytv.club:8080/unknown/unknown123/23032
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 2
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 2
 http://mytv.club:8080/unknown/unknown123/23093
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 3
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 3
 http://mytv.club:8080/unknown/unknown123/23092
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 4
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 4
 http://mytv.club:8080/unknown/unknown123/23091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 5
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 5
 http://mytv.club:8080/unknown/unknown123/23090
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 6
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="OPCION 2",ES: M. Deportes 6
 http://mytv.club:8080/unknown/unknown123/23089
 #EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 7" tvg-logo="" group-title="OPCION 2",ES: M. Deportes 7
 http://mytv.club:8080/unknown/unknown123/23088
@@ -7054,7 +7054,7 @@ http://mytv.club:8080/unknown/unknown123/2408
 http://mytv.club:8080/unknown/unknown123/1086
 #EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[""]" group-title="OPCION 2",ES: M. Golf FHD
 http://mytv.club:8080/unknown/unknown123/23036
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones FHD H265" tvg-logo="" group-title="OPCION 2",ES: M. Liga De Campeones FHD H265
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones FHD H265" tvg-logo="" group-title="OPCION 2",ES: M. Liga De Campeones FHD H265
 http://mytv.club:8080/unknown/unknown123/49812
 #EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones FHD
 http://mytv.club:8080/unknown/unknown123/23035
@@ -7062,23 +7062,23 @@ http://mytv.club:8080/unknown/unknown123/23035
 http://mytv.club:8080/unknown/unknown123/19206
 #EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="OPCION 2",ES: M. Liga De Campeones
 http://mytv.club:8080/unknown/unknown123/6491
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1 FHD" tvg-logo="" group-title="OPCION 2",ES: M. Liga De Campeones 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 1 FHD" tvg-logo="" group-title="OPCION 2",ES: M. Liga De Campeones 1 FHD
 http://mytv.club:8080/unknown/unknown123/1441
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 1
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 1
 http://mytv.club:8080/unknown/unknown123/19205
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 2
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 2
 http://mytv.club:8080/unknown/unknown123/19204
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 3
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 3
 http://mytv.club:8080/unknown/unknown123/19203
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 4
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 4
 http://mytv.club:8080/unknown/unknown123/19202
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 5
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 5
 http://mytv.club:8080/unknown/unknown123/19201
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 6
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 6
 http://mytv.club:8080/unknown/unknown123/23098
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 7
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 7
 http://mytv.club:8080/unknown/unknown123/19200
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[" group-title="OPCION 2",ES: M. Liga De Campeones 8
 http://mytv.club:8080/unknown/unknown123/19199
 #EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series 2" tvg-logo="[" group-title="OPCION 2",ES: M. Series 2
 http://mytv.club:8080/unknown/unknown123/1093
@@ -7154,7 +7154,7 @@ http://mytv.club:8080/unknown/unknown123/2642
 http://mytv.club:8080/unknown/unknown123/632
 #EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Realmadrid TV HD" tvg-logo="[" group-title="OPCION 2",ES: Realmadrid TV HD
 http://mytv.club:8080/unknown/unknown123/22796
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="OPCION 2",ES: Realmadrid TV ( English )
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="OPCION 2",ES: Realmadrid TV ( English )
 http://mytv.club:8080/unknown/unknown123/30051
 #EXTINF:-1 tvg-ID="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="" group-title="OPCION 2",ES: RTVC
 http://mytv.club:8080/unknown/unknown123/17206
@@ -7176,7 +7176,7 @@ http://mytv.club:8080/unknown/unknown123/3370
 http://mytv.club:8080/unknown/unknown123/624
 #EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="" group-title="OPCION 2",ES: Teledeporte
 http://mytv.club:8080/unknown/unknown123/1089
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="OPCION 2",ES: RTVCE Ceuta
+#EXTINF:-1 tvg-ID="" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="OPCION 2",ES: RTVCE Ceuta
 http://mytv.club:8080/unknown/unknown123/23024
 #EXTINF:-1 tvg-ID="ten.es" tvg-name="ES: Ten" tvg-logo="" group-title="OPCION 2",ES: Ten
 http://mytv.club:8080/unknown/unknown123/12639
@@ -7188,9 +7188,9 @@ http://mytv.club:8080/unknown/unknown123/23079
 http://mytv.club:8080/unknown/unknown123/6816
 #EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: Torros" tvg-logo="" group-title="OPCION 2",ES: Torros
 http://mytv.club:8080/unknown/unknown123/1092
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="OPCION 2",ES: CANAL MALGA
+#EXTINF:-1 tvg-ID="" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="OPCION 2",ES: CANAL MALGA
 http://mytv.club:8080/unknown/unknown123/23063
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TV Galicia" tvg-logo="" group-title="OPCION 2",ES: TV Galicia
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TV Galicia" tvg-logo="" group-title="OPCION 2",ES: TV Galicia
 http://mytv.club:8080/unknown/unknown123/1429
 #EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="OPCION 2",ES: TV3 Cataluña FHD
 http://mytv.club:8080/unknown/unknown123/23062
@@ -7222,31 +7222,31 @@ http://mytv.club:8080/unknown/unknown123/12651
 http://mytv.club:8080/unknown/unknown123/12643
 #EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="" group-title="OPCION 2",VIP ES: M. Laliga UHD 4K
 http://mytv.club:8080/unknown/unknown123/30737
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="" group-title="OPCION 2",VIP ES: M. Campeones UHD 4K
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="" group-title="OPCION 2",VIP ES: M. Campeones UHD 4K
 http://mytv.club:8080/unknown/unknown123/34560
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN F1 UHD 4K" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN F1 UHD 4K
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN F1 UHD 4K" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN F1 UHD 4K
 http://mytv.club:8080/unknown/unknown123/34561
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. Liga De Campeones FHD(Multi-Audio)" tvg-logo="" group-title="OPCION 2",VIP ES: M. Liga De Campeones FHD(Multi-Audio)
 http://mytv.club:8080/unknown/unknown123/63094
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. LaLiga FHD (Multi-Audio)" tvg-logo="" group-title="OPCION 2",VIP ES: M. LaLiga FHD (Multi-Audio)
 http://mytv.club:8080/unknown/unknown123/63095
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Canal Orange FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Canal Orange FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Orange FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Canal Orange FHD
 http://mytv.club:8080/unknown/unknown123/63097
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: LaLiga TV Bar FHD H265" tvg-logo="" group-title="OPCION 2",VIP ES: LaLiga TV Bar FHD H265
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: LaLiga TV Bar FHD H265" tvg-logo="" group-title="OPCION 2",VIP ES: LaLiga TV Bar FHD H265
 http://mytv.club:8080/unknown/unknown123/63096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TVE UHD 4K" tvg-logo="[" group-title="OPCION 2",VIP ES: TVE UHD 4K
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVE UHD 4K" tvg-logo="[" group-title="OPCION 2",VIP ES: TVE UHD 4K
 http://mytv.club:8080/unknown/unknown123/23071
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 1 H265" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 1 H265
 http://mytv.club:8080/unknown/unknown123/63909
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 1 FHD
 http://mytv.club:8080/unknown/unknown123/64222
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 1 HD" tvg-logo="[" group-title="OPCION 2",VIP ES: DAZN BAR 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 1 HD" tvg-logo="[" group-title="OPCION 2",VIP ES: DAZN BAR 1 HD
 http://mytv.club:8080/unknown/unknown123/23016
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 2 H265" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 2 H265
 http://mytv.club:8080/unknown/unknown123/63910
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 2 FHD
 http://mytv.club:8080/unknown/unknown123/64223
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 2 HD" tvg-logo="[" group-title="OPCION 2",VIP ES: DAZN BAR 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 2 HD" tvg-logo="[" group-title="OPCION 2",VIP ES: DAZN BAR 2 HD
 http://mytv.club:8080/unknown/unknown123/26568
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 3 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN BAR 3 FHD
 http://mytv.club:8080/unknown/unknown123/68191
@@ -7266,7 +7266,7 @@ http://mytv.club:8080/unknown/unknown123/63106
 http://mytv.club:8080/unknown/unknown123/63107
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN F1 ESPAÑA FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DAZN F1 ESPAÑA FHD
 http://mytv.club:8080/unknown/unknown123/63100
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Dazn HD 24/7" tvg-logo="" group-title="OPCION 2",VIP ES: Dazn HD 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn HD 24/7" tvg-logo="" group-title="OPCION 2",VIP ES: Dazn HD 24/7
 http://mytv.club:8080/unknown/unknown123/63099
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn (Pruebas)" tvg-logo="" group-title="OPCION 2",VIP ES: Dazn (Pruebas)
 http://mytv.club:8080/unknown/unknown123/63101
@@ -7320,67 +7320,67 @@ http://mytv.club:8080/unknown/unknown123/63164
 http://mytv.club:8080/unknown/unknown123/63163
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 25 (Eventos)" tvg-logo="" group-title="OPCION 2",VIP ES: Dazn & Footters 25 (Eventos)
 http://mytv.club:8080/unknown/unknown123/63162
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 1 FHD
 http://mytv.club:8080/unknown/unknown123/63128
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 1 HD
 http://mytv.club:8080/unknown/unknown123/63129
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 1 SD
 http://mytv.club:8080/unknown/unknown123/63130
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 2 FHD
 http://mytv.club:8080/unknown/unknown123/63131
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 2 HD
 http://mytv.club:8080/unknown/unknown123/63132
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 2 SD
 http://mytv.club:8080/unknown/unknown123/63133
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 3 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 3 FHD
 http://mytv.club:8080/unknown/unknown123/63134
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 3 HD
 http://mytv.club:8080/unknown/unknown123/63135
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 3 SD
 http://mytv.club:8080/unknown/unknown123/63136
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 4 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 4 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 4 FHD
 http://mytv.club:8080/unknown/unknown123/63137
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 4 HD
 http://mytv.club:8080/unknown/unknown123/63138
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 4 SD
 http://mytv.club:8080/unknown/unknown123/63139
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 5 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 5 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 5 FHD
 http://mytv.club:8080/unknown/unknown123/63140
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 5 HD
 http://mytv.club:8080/unknown/unknown123/63141
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 5 SD
 http://mytv.club:8080/unknown/unknown123/63142
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 6 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 6 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 6 FHD
 http://mytv.club:8080/unknown/unknown123/63143
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 6 HD
 http://mytv.club:8080/unknown/unknown123/63144
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 6 SD
 http://mytv.club:8080/unknown/unknown123/63145
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 7 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 7 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 7 FHD
 http://mytv.club:8080/unknown/unknown123/63146
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 7 HD
 http://mytv.club:8080/unknown/unknown123/63147
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 7 SD
 http://mytv.club:8080/unknown/unknown123/63148
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 8 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 8 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 8 FHD
 http://mytv.club:8080/unknown/unknown123/63149
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 8 HD
 http://mytv.club:8080/unknown/unknown123/63150
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 8 SD
 http://mytv.club:8080/unknown/unknown123/63151
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 9 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 9 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 9 FHD
 http://mytv.club:8080/unknown/unknown123/63152
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 9 HD
 http://mytv.club:8080/unknown/unknown123/63153
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 9 SD
 http://mytv.club:8080/unknown/unknown123/63154
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 10 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 10 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 10 FHD
 http://mytv.club:8080/unknown/unknown123/63155
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 10 HD
 http://mytv.club:8080/unknown/unknown123/63156
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 SD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 10 SD
 http://mytv.club:8080/unknown/unknown123/63157
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Evento 11 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 11 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 11 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 11 FHD
 http://mytv.club:8080/unknown/unknown123/63158
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 11 HD" tvg-logo="" group-title="OPCION 2",VIP ES: Evento 11 HD
 http://mytv.club:8080/unknown/unknown123/63159
@@ -7392,105 +7392,105 @@ http://mytv.club:8080/unknown/unknown123/63161
 http://mytv.club:8080/unknown/unknown123/12640
 #EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="VIP ES: TELEDEPORTE HD" tvg-logo="[" group-title="OPCION 2",VIP ES: TELEDEPORTE HD
 http://mytv.club:8080/unknown/unknown123/3374
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Realmadrid TV FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: Realmadrid TV FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Realmadrid TV FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: Realmadrid TV FHD
 http://mytv.club:8080/unknown/unknown123/26929
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Sevilla FC" tvg-logo="" group-title="OPCION 2",VIP ES: Sevilla FC
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Sevilla FC" tvg-logo="" group-title="OPCION 2",VIP ES: Sevilla FC
 http://mytv.club:8080/unknown/unknown123/42077
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Betis TV" tvg-logo="[" group-title="OPCION 2",VIP ES: Betis TV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Betis TV" tvg-logo="[" group-title="OPCION 2",VIP ES: Betis TV
 http://mytv.club:8080/unknown/unknown123/26927
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Esport 3" tvg-logo="[" group-title="OPCION 2",VIP ES: Esport 3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Esport 3" tvg-logo="[" group-title="OPCION 2",VIP ES: Esport 3
 http://mytv.club:8080/unknown/unknown123/20620
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="OPCION 2",VIP ES: U-BEAT HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="OPCION 2",VIP ES: U-BEAT HD
 http://mytv.club:8080/unknown/unknown123/26924
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB 1HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB 1HD
 http://mytv.club:8080/unknown/unknown123/20621
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB 2HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB 2HD
 http://mytv.club:8080/unknown/unknown123/26925
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB Sat" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB Sat
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: ETB Sat" tvg-logo="[" group-title="OPCION 2",VIP ES: ETB Sat
 http://mytv.club:8080/unknown/unknown123/26926
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DARK FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DARK FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DARK FHD" tvg-logo="" group-title="OPCION 2",VIP ES: DARK FHD
 http://mytv.club:8080/unknown/unknown123/42079
 #EXTINF:-1 tvg-ID="dark.es" tvg-name="VIP ES: DARK" tvg-logo="[" group-title="OPCION 2",VIP ES: DARK
 http://mytv.club:8080/unknown/unknown123/656
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM HD" tvg-logo="" group-title="OPCION 2",VIP ES: XTRM HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: XTRM HD" tvg-logo="" group-title="OPCION 2",VIP ES: XTRM HD
 http://mytv.club:8080/unknown/unknown123/42083
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM" tvg-logo="[" group-title="OPCION 2",VIP ES: XTRM
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: XTRM" tvg-logo="[" group-title="OPCION 2",VIP ES: XTRM
 http://mytv.club:8080/unknown/unknown123/8210
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOMOS FHD" tvg-logo="" group-title="OPCION 2",VIP ES: SOMOS FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOMOS FHD" tvg-logo="" group-title="OPCION 2",VIP ES: SOMOS FHD
 http://mytv.club:8080/unknown/unknown123/42570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOMOS" tvg-logo="[" group-title="OPCION 2",VIP ES: SOMOS
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOMOS" tvg-logo="[" group-title="OPCION 2",VIP ES: SOMOS
 http://mytv.club:8080/unknown/unknown123/20623
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOL Musica FHD" tvg-logo="" group-title="OPCION 2",VIP ES: SOL Musica FHD
 http://mytv.club:8080/unknown/unknown123/42571
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="OPCION 2",VIP ES: SOL Musica
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="OPCION 2",VIP ES: SOL Musica
 http://mytv.club:8080/unknown/unknown123/23064
 #EXTINF:-1 tvg-ID="odisea.es" tvg-name="VIP ES: CANAL ODISEA HD" tvg-logo="[" group-title="OPCION 2",VIP ES: CANAL ODISEA HD
 http://mytv.club:8080/unknown/unknown123/23022
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CANAL COCINA HD" tvg-logo="" group-title="OPCION 2",VIP ES: CANAL COCINA HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CANAL COCINA HD" tvg-logo="" group-title="OPCION 2",VIP ES: CANAL COCINA HD
 http://mytv.club:8080/unknown/unknown123/42081
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CANAL DECASA HD" tvg-logo="" group-title="OPCION 2",VIP ES: CANAL DECASA HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CANAL DECASA HD" tvg-logo="" group-title="OPCION 2",VIP ES: CANAL DECASA HD
 http://mytv.club:8080/unknown/unknown123/42080
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DISCOVERY FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: DISCOVERY FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DISCOVERY FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: DISCOVERY FHD
 http://mytv.club:8080/unknown/unknown123/23018
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CAZAVISION" tvg-logo="" group-title="OPCION 2",VIP ES: CAZAVISION
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CAZAVISION" tvg-logo="" group-title="OPCION 2",VIP ES: CAZAVISION
 http://mytv.club:8080/unknown/unknown123/34559
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: BLAZE HD" tvg-logo="" group-title="OPCION 2",VIP ES: BLAZE HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: BLAZE HD" tvg-logo="" group-title="OPCION 2",VIP ES: BLAZE HD
 http://mytv.club:8080/unknown/unknown123/42082
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: BE MAD FHD" tvg-logo="" group-title="OPCION 2",VIP ES: BE MAD FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: BE MAD FHD" tvg-logo="" group-title="OPCION 2",VIP ES: BE MAD FHD
 http://mytv.club:8080/unknown/unknown123/42582
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Bom Cine" tvg-logo="" group-title="OPCION 2",VIP ES: Bom Cine
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Bom Cine" tvg-logo="" group-title="OPCION 2",VIP ES: Bom Cine
 http://mytv.club:8080/unknown/unknown123/42078
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Barca TV" tvg-logo="[" group-title="OPCION 2",VIP ES: Barca TV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Barca TV" tvg-logo="[" group-title="OPCION 2",VIP ES: Barca TV
 http://mytv.club:8080/unknown/unknown123/26930
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TELE MADRID FHD" tvg-logo="" group-title="OPCION 2",VIP ES: TELE MADRID FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TELE MADRID FHD" tvg-logo="" group-title="OPCION 2",VIP ES: TELE MADRID FHD
 http://mytv.club:8080/unknown/unknown123/39666
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CLAN HD" tvg-logo="" group-title="OPCION 2",VIP ES: CLAN HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CLAN HD" tvg-logo="" group-title="OPCION 2",VIP ES: CLAN HD
 http://mytv.club:8080/unknown/unknown123/39668
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Historia HD" tvg-logo="" group-title="OPCION 2",VIP ES: Historia HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Historia HD" tvg-logo="" group-title="OPCION 2",VIP ES: Historia HD
 http://mytv.club:8080/unknown/unknown123/39667
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: RTV Andorra" tvg-logo="" group-title="OPCION 2",VIP ES: RTV Andorra
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: RTV Andorra" tvg-logo="" group-title="OPCION 2",VIP ES: RTV Andorra
 http://mytv.club:8080/unknown/unknown123/39665
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DreamWorks" tvg-logo="" group-title="OPCION 2",VIP ES: DreamWorks
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DreamWorks" tvg-logo="" group-title="OPCION 2",VIP ES: DreamWorks
 http://mytv.club:8080/unknown/unknown123/39778
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: MEGA FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: MEGA FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: MEGA FHD" tvg-logo="[" group-title="OPCION 2",VIP ES: MEGA FHD
 http://mytv.club:8080/unknown/unknown123/12628
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler Presentation
 http://mytv.club:8080/unknown/unknown123/35091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 1 FHD
 http://mytv.club:8080/unknown/unknown123/35079
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 2 FHD
 http://mytv.club:8080/unknown/unknown123/35080
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 3 FHD
 http://mytv.club:8080/unknown/unknown123/35081
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 4 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 4 FHD
 http://mytv.club:8080/unknown/unknown123/35082
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 5 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 5 FHD
 http://mytv.club:8080/unknown/unknown123/35083
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 6 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 6 FHD
 http://mytv.club:8080/unknown/unknown123/35084
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 7 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 7 FHD
 http://mytv.club:8080/unknown/unknown123/35085
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 8 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 8 FHD
 http://mytv.club:8080/unknown/unknown123/35086
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 9 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 9 FHD
 http://mytv.club:8080/unknown/unknown123/35087
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 10 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 10 FHD
 http://mytv.club:8080/unknown/unknown123/35088
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 11 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 11 FHD
 http://mytv.club:8080/unknown/unknown123/35089
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 12 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 12 FHD
 http://mytv.club:8080/unknown/unknown123/35090
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 13 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 13 FHD
 http://mytv.club:8080/unknown/unknown123/35094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 14 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 14 FHD
 http://mytv.club:8080/unknown/unknown123/35095
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 15 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 15 FHD
 http://mytv.club:8080/unknown/unknown123/35096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 16 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 16 FHD
 http://mytv.club:8080/unknown/unknown123/35097
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 17 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 17 FHD
 http://mytv.club:8080/unknown/unknown123/35098
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 18 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler 18 FHD
 http://mytv.club:8080/unknown/unknown123/35099
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-logo="" group-title="OPCION 2",VIP ES: Movistar Alquiler Multivision 1 FHD
 http://mytv.club:8080/unknown/unknown123/35092
@@ -8109,7 +8109,7 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4043
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4019
 #EXTINF:-1 tvg-id="" tvg-name="FHD - STAR CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" group-title="OPCION 3",FHD - STAR CINEMA
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8238
-#EXTINF:-1 tvg-id="" tvg-name="FHD - STAR CLASSICS" tvg-logo="data:image/jpeg;base64,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" group-title="OPCION 3",FHD - STAR CLASSICS
+#EXTINF:-1 tvg-id="" tvg-name="FHD - STAR CLASSICS" tvg-logo="" group-title="OPCION 3",FHD - STAR CLASSICS
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8237
 #EXTINF:-1 tvg-id="" tvg-name="FHD - STAR COMEDY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="OPCION 3",FHD - STAR COMEDY 
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8234
@@ -8117,7 +8117,7 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8234
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4084
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - STAR HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/250px-Star_Hits_2020.svg.png" group-title="OPCION 3",FHD - STAR HITS
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4023
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - STAR SERIES" tvg-logo="data:image/jpeg;base64,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" group-title="OPCION 3",FHD - STAR SERIES
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - STAR SERIES" tvg-logo="" group-title="OPCION 3",FHD - STAR SERIES
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4020
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FHD - FX HD" tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="OPCION 3",FHD - FX HD
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4044
@@ -10155,7 +10155,7 @@ http://odenfull.co:2086/142536/142536/134191
 http://odenfull.co:2086/142536/142536/134192
 #EXTINF:-1 tvg-id="" tvg-name="LAT HD:  STAR ACTION" tvg-logo="https://i.ibb.co/NFPjNdW/ACT.png" group-title="OPCION 4",LAT HD:  STAR ACTION
 http://odenfull.co:2086/142536/142536/186020
-#EXTINF:-1 tvg-id="" tvg-name="INTERLATINS TV" tvg-logo="data:image/png;base64,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" group-title="OPCION 4",INTERLATINS TV
+#EXTINF:-1 tvg-id="" tvg-name="INTERLATINS TV" tvg-logo="" group-title="OPCION 4",INTERLATINS TV
 http://odenfull.co:2086/142536/142536/119686
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS " tvg-logo="http://odenfull.co:2086/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="OPCION 4",DIRECTV SPORTS 
 http://odenfull.co:2086/142536/142536/203389
