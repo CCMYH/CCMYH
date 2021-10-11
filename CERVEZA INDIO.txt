@@ -26585,8 +26585,6 @@ http://ytv.plus:25461/mercedes/1234/12597
 http://ytv.plus:25461/mercedes/1234/1952
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="" group-title="OPCION 19",BT SPORT 1
 http://ytv.plus:25461/mercedes/1234/2391
-#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids" tvg-logo="http://www.atvpanel.com/posters/1548899155342.jpg" group-title="KIDS",Universal Kids
-http://ytv.plus:25461/mercedes/1234/326
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OPCION 19",WWE
 http://ytv.plus:25461/mercedes/1234/1911
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports San Diego [thun]" tvg-logo="" group-title="OPCION 19",Fox Sports San Diego [thun]
