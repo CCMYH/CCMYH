@@ -10555,7 +10555,7 @@ http://185.134.22.131:8080/testline/testline/886
 http://185.134.22.131:8080/testline/testline/885
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="USA | BALLY SPORTS WISCONSIN PLUS" tvg-logo="https://i.ibb.co/9ZnS89d/bally-sports-wisconsin-plus-us.png" group-title="OPCION 11",USA | BALLY SPORTS WISCONSIN PLUS
 http://185.134.22.131:8080/testline/testline/54267
-#EXTINF:-1 tvg-id="beinsportusa.us" tvg-name="USA | BEIN SPORTS" tvg-logo="https://tinyurl.com/yxhxfbne" group-title="USA SPORTS NETWORKS",USA | BEIN SPORTS
+#EXTINF:-1 tvg-id="beinsportusa.us" tvg-name="USA | BEIN SPORTS" tvg-logo="https://tinyurl.com/yxhxfbne" group-title="OPCION 11",USA | BEIN SPORTS
 http://185.134.22.131:8080/testline/testline/33786
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://tinyurl.com/y3qkh2jp" group-title="OPCION 11",USA | BEIN SPORTS LALIGA TV
 http://185.134.22.131:8080/testline/testline/12037
@@ -15729,8 +15729,6 @@ http://coresys.dvrdns.org:8080/delgado/delgado/981
 http://coresys.dvrdns.org:8080/delgado/delgado/982
 #EXTINF:-1 tvg-id="I140.15384.schedulesdirect.org" tvg-name="ADN 40 HD" tvg-logo="http://coresys.dvrdns.org:8080/images/a3afd164386a5340a36516b569d09ad1.png" group-title="OPCION 13",ADN 40 HD
 http://coresys.dvrdns.org:8080/delgado/delgado/983
-#EXTINF:-1 tvg-id="I166.15603.schedulesdirect.org" tvg-name="WIPR" tvg-logo="http://51.161.118.171/cover/wiprtv.png" group-title="PUERTO RICO",WIPR
-http://coresys.dvrdns.org:8080/delgado/delgado/986
 #EXTINF:-1 tvg-id="univision.us" tvg-name="Univison (WLTV-Miami-Ft._Lauderdale)" tvg-logo="http://51.161.118.171/cover/univisonmiami.jpg" group-title="OPCION 13",Univison (WLTV-Miami-Ft._Lauderdale)
 http://coresys.dvrdns.org:8080/delgado/delgado/989
 #EXTINF:-1 tvg-id="I369.62161.schedulesdirect.org" tvg-name="Hola TV" tvg-logo="http://51.161.118.171/cover/holatv.jpg" group-title="OPCION 13",Hola TV
