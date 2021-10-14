@@ -87,13 +87,13 @@ http://45.235.37.254:8600/play/a071
 http://45.235.37.254:8600/play/a0di
 #EXTINF:-1 group-title="OPCION 1",EMM66 (clone) 
 http://45.235.37.254:8600/play/a0dr
-#EXTINF:-1 group-title="OPCION 1",ESPN -27
+#EXTINF:-1 tvg-id="ESPNDeportes.mx" tvg-name="ESPN Deportes" group-title="OPCION 1",ESPN -27
 http://45.235.37.254:8600/play/a0cs
 #EXTINF:-1 group-title="OPCION 1",ESPN 3
 http://45.235.37.254:8600/play/a095
 #EXTINF:-1 group-title="OPCION 1",ESPN2
 http://45.235.37.254:8600/play/a0ct
-#EXTINF:-1 group-title="OPCION 1",ESPN2 -28
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" group-title="OPCION 1",ESPN2 -28
 http://45.235.37.254:8600/play/a08a
 #EXTINF:-1 group-title="OPCION 1",ETC TV -29
 http://45.235.37.254:8600/play/a063
@@ -449,7 +449,7 @@ http://alfa.7057460.xyz:2095/live/lalocama/cama999/5629.ts
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/6294.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="17.MLB : SIN EVENTO" tvg-logo="https://i.imgur.com/J1yMurP.png" group-title="OPCION 2",17.MLB : SIN EVENTO
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/5428.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="17.PREMIER LEAGUE ESPN   " tvg-logo="https://i.imgur.com/VNMhqBz.png" group-title="OPCION 2",17.PREMIER LEAGUE ESPN   
+#EXTINF:-1 type="stream" tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://i.imgur.com/VNMhqBz.png" group-title="OPCION 2",ESPN ARG
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/6295.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="18.MLB : SIN EVENTO" tvg-logo="https://i.imgur.com/J1yMurP.png" group-title="OPCION 2",18.MLB : SIN EVENTO
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/5429.ts
@@ -895,37 +895,37 @@ http://alfa.7057460.xyz:2095/live/lalocama/cama999/301.ts
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/99.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="ESP VIAJAR HD" tvg-logo="https://i.imgur.com/C5FyzLU.png" group-title="OPCION 2",ESP VIAJAR HD
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/299.ts
-#EXTINF:-1 type="stream" tvg-id="ESPNLatin.mx" tvg-name="ESPN 1 FHD" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 FHD
+#EXTINF:-1 type="stream" tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 FHD
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/138.ts
-#EXTINF:-1 type="stream" tvg-id="Espn2.mx" tvg-name="ESPN 1 MEX" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 MEX
+#EXTINF:-1 type="stream" tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 MEX
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/24.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN 1 SD " tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 SD 
+#EXTINF:-1 type="stream" tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 SD
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/4447.ts
 #EXTINF:-1 type="stream" tvg-id="ESPNLatin.mx" tvg-name="ESPN 1 USA" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 USA
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/217.ts
-#EXTINF:-1 type="stream" tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARG" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 ARG
+#EXTINF:-1 type="stream" tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 ARG
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/296.ts
-#EXTINF:-1 type="stream" tvg-id="Espn2.mx" tvg-name="ESPN 2 FHD" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 FHD
+#EXTINF:-1 type="stream" tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 FHD
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/184.ts
-#EXTINF:-1 type="stream" tvg-id="ESPNLatin.mx" tvg-name="ESPN 2 MEX" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 MEX
+#EXTINF:-1 type="stream" tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 MEX
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/26.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN 2 SD " tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 SD 
+#EXTINF:-1 type="stream" tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 1 SD 
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/4448.ts
-#EXTINF:-1 type="stream" tvg-id="ESPN2.us" tvg-name="ESPN 2 USA" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 USA
+#EXTINF:-1 type="stream" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 2 USA
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/239.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN 3 ARG " tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 ARG 
+#EXTINF:-1 type="stream" tvg-id="ESPN3(South).ar" tvg-name="ESPN 3" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 ARG 
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/5084.ts
-#EXTINF:-1 type="stream" tvg-id="ESPN3.mx" tvg-name="ESPN 3 MEX" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 MEX
+#EXTINF:-1 type="stream" tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 MEX
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/25.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN 3 SD " tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 SD 
+#EXTINF:-1 type="stream" tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN 3 SD 
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/4458.ts
-#EXTINF:-1 type="stream" tvg-id="ESPN.ar" tvg-name="ESPN ARG" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN ARG
+#EXTINF:-1 type="stream" tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN ARG
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/295.ts
-#EXTINF:-1 type="stream" tvg-id="ESPNDeportes.us" tvg-name="ESPN DEPORTES" tvg-logo="http://i.imgur.com/TO7CuWx.png" group-title="OPCION 2",ESPN DEPORTES
+#EXTINF:-1 type="stream" tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="http://i.imgur.com/TO7CuWx.png" group-title="OPCION 2",ESPN DEPORTES
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/218.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="ESPN DEPORTES OPC 2" tvg-logo="https://i.imgur.com/TO7CuWx.png" group-title="OPCION 2",ESPN DEPORTES OPC 2
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/5854.ts
-#EXTINF:-1 type="stream" tvg-id="ESPN3.mx" tvg-name="ESPN PLUS MEX" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN PLUS MEX
+#EXTINF:-1 type="stream" tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="http://i.imgur.com/UukGlHK.png" group-title="OPCION 2",ESPN PLUS MEX
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/27.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://i.imgur.com/VEwVRzf.png" group-title="OPCION 2",ESTRELLA TV
 http://alfa.7057460.xyz:2095/live/lalocama/cama999/216.ts
@@ -2296,25 +2296,25 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2318
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2304
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2 mex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="OPCION 3",FOX SPORT2 mex
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2303
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MEXICO sd" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="OPCION 3",ESPN MEXICO sd
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="OPCION 3",ESPN MEXICO sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2302
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS mex sd" tvg-logo="http://www.eliplextv.xyz/logos/ESPN%20Plus%20P3.png" group-title="OPCION 3",ESPN PLUS mex sd
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="http://www.eliplextv.xyz/logos/ESPN%20Plus%20P3.png" group-title="OPCION 3",ESPN PLUS ARG sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2301
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 3 mex sd" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 mex sd
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 mex sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2299
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 2 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 sd
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 ARG sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2298
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_SD_MEX2:ESPN
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_SD_ARG2:ESPN
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2297
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD:TIGO SPORT CR 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYmJ4bM7p4xajbhzozbQIgeY0mz6eshN_U_TMb4e2tAcYj5JFr" group-title="OPCION 3",LA_FHD:TIGO SPORT CR 1
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2296
 #EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:TYC SPORTS" tvg-logo="http://images.produ.com/noticias/0818/big-TyCSportsLogo.jpg" group-title="OPCION 3",*ARG_HD:TYC SPORTS
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2295
-#EXTINF:-1 tvg-id="EPG123.79042.schedulesdirect.org" tvg-name="*ARG_HD:ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",*ARG_HD:ESPN 3
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",*MEX_HD:ESPN 3
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2294
-#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="*ARG_HD:ESPN 2" tvg-logo="http://i1.wp.com/kingoftheflatscreen.com/wp-content/uploads/2014/11/espn2logo.png" group-title="OPCION 3",*ARG_HD:ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="http://i1.wp.com/kingoftheflatscreen.com/wp-content/uploads/2014/11/espn2logo.png" group-title="OPCION 3",*ARG_HD:ESPN 2
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2293
-#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:ESPN" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/9/9b/Logo_ESPN.png" group-title="OPCION 3",*ARG_HD:ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/9/9b/Logo_ESPN.png" group-title="OPCION 3",*ARG_HD:ESPN
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2292
 #EXTINF:-1 tvg-id="EPG123.47374.schedulesdirect.org" tvg-name="*ARG_HD:FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="OPCION 3",*ARG_HD:FOX SPORTS 3
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2291
@@ -2338,19 +2338,19 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2283
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2281
 #EXTINF:-1 tvg-id="EPG123.47374.schedulesdirect.org" tvg-name="LA_HD_MEX2:Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="OPCION 3",LA_HD_MEX2:Fox Sports 3 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2280
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_FHD2:ESPN HD
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_ARG_FHD:ESPN HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2279
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="LA_FHD2:ESPN 3 HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",LA_FHD2:ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",LA_ARG_FHD:ESPN 3 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2278
-#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="LA_FHD2:ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",LA_FHD2:ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",LA_ARG_FHD:ESPN 2 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2277
-#EXTINF:-1 tvg-id="" tvg-name="Espn Plus HD" tvg-logo="http://3.bp.blogspot.com/-KCvjL7GDtcY/VhLno2ogxmI/AAAAAAAAAZ4/pZGZat4blSQ/s1600/espn_lam_plus_andino.png" group-title="OPCION 3",Espn Plus HD
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://3.bp.blogspot.com/-KCvjL7GDtcY/VhLno2ogxmI/AAAAAAAAAZ4/pZGZat4blSQ/s1600/espn_lam_plus_andino.png" group-title="OPCION 3",Espn U HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2276
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_HD_MEX2:Espn HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",LA_HD_MEX2:Espn HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2275
-#EXTINF:-1 tvg-id="1" tvg-name="LA_HD_MEX2:Espn 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",LA_HD_MEX2:Espn 3
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",LA_HD_MEX2:Espn 3
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2274
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="LA_HD_MEX2:Espn 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",LA_HD_MEX2:Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",LA_HD_MEX2:Espn 2 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2273
 #EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="OPCION 3",*ARG_HD:FOX SPORTS PREMIUM
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2272
@@ -2362,9 +2362,9 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2270
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2269
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="HD_FOX SPORT 1 COLOMBIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="OPCION 3",HD_FOX SPORT 1 COLOMBIA 
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2268
-#EXTINF:-1 tvg-id="EPG123.79042.schedulesdirect.org" tvg-name="HD_ESPN 3_1920" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",HD_ESPN 3_1920
+#EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ARG ESPN 3_1920
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2267
-#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="HD_ESPN 2_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",HD_ESPN 2_1920
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ARG HD_ESPN _1920
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2266
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="OPCION 3",Fox Sports HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2264
@@ -2372,7 +2372,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2264
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2263
 #EXTINF:-1 tvg-id="111ANZ" tvg-name="STAR CHANNEL" tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/12/17/starjpg.jpg_929788380.jpg" group-title="OPCION 3",STAR CHANNEL
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2262
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn U HD" tvg-logo="https://i0.pngocean.com/files/838/21/90/espnu-television-channel-logo-news-reporter.jpg" group-title="OPCION 3",LA_HD_MEX2:Espn U HD
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://i0.pngocean.com/files/838/21/90/espnu-television-channel-logo-news-reporter.jpg" group-title="OPCION 3",LA_HD:Espn U HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2261
 #EXTINF:-1 tvg-id="EPG123.66365.schedulesdirect.org" tvg-name="LA_HD_MEX2:Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="OPCION 3",LA_HD_MEX2:Fox Sports 2 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2260
@@ -2808,9 +2808,9 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1040
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1039
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",LA_SD_MEX2:ESPN 3
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1038
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:ESPN 2" tvg-logo="" group-title="OPCION 3",LA_SD_MEX2:ESPN 2
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="OPCION 3",LA_SD_MEX:ESPN 
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1037
-#EXTINF:-1 tvg-id="" tvg-name="HD:ESPN SUR AMERICA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="OPCION 3",HD:ESPN SUR AMERICA
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="OPCION 3",ARG ESPN SUR AMERICA
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1036
 #EXTINF:-1 tvg-id="ELGOURMET" tvg-name="El Gourmet" tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" group-title="OPCION 3",El Gourmet
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/1035
@@ -2954,11 +2954,11 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/963
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/962
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Disney Channel" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Disney Channel
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/961
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn Plus HD" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Espn Plus HD
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="OPCION 3",LA_HD_MEX:ESPN Extra HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/960
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn HD" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Espn HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="OPCION 3",LA_HD_MEX:Espn HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/959
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn 3" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Espn 3
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Espn 3
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/958
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Sony Channel HD" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Sony Channel HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/957
@@ -2986,7 +2986,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/947
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/946
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Telenovelas" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Telenovelas
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/945
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn U HD" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Espn U HD
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="" group-title="OPCION 3",LA_HD:Espn U HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/944
 #EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 2 HD" tvg-logo="" group-title="OPCION 3",LA_HD_MEX2:Fox Sports 2 HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/943
@@ -3422,9 +3422,9 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19481
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19482
 #EXTINF:-1 tvg-id="" tvg-name="LA..HQ:El Garage TV" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="OPCION 3",LA..HQ:El Garage TV
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19483
-#EXTINF:-1 tvg-id="" tvg-name="LA..HQ:ESPN 2 Sur" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="OPCION 3",LA..HQ:ESPN 2 Sur
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="OPCION 3",LA..HQ:ESPN 2 SUR
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19484
-#EXTINF:-1 tvg-id="" tvg-name="LA..HQ:ESPN + Sur" tvg-logo="https://e7.pngegg.com/pngimages/244/342/png-clipart-logo-espn2-espn-inc-espn-com-others-miscellaneous-text.png" group-title="OPCION 3",LA..HQ:ESPN + Sur
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://e7.pngegg.com/pngimages/244/342/png-clipart-logo-espn2-espn-inc-espn-com-others-miscellaneous-text.png" group-title="OPCION 3",LA..HQ:ESPN Extra Sur
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19485
 #EXTINF:-1 tvg-id="" tvg-name="LA..HQ:Fox Sports 3 Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="OPCION 3",LA..HQ:Fox Sports 3 Sur
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19486
@@ -3690,9 +3690,9 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20865
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20866
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:Disney XD HD" tvg-logo="" group-title="OPCION 3",LA_FHD3:Disney XD HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20867
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:ESPN 2 MX HD" tvg-logo="" group-title="OPCION 3",LA_FHD3:ESPN 2 MX HD
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="OPCION 3",LA_FHD3:ESPN MX HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20868
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:ESPN MX HD" tvg-logo="" group-title="OPCION 3",LA_FHD3:ESPN MX HD
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="OPCION 3",LA_FHD3:ESPN 2 MX HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20869
 #EXTINF:-1 tvg-id="" tvg-name="STAR Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="OPCION 3",STAR Cinema HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20870
@@ -3728,7 +3728,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20884
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20885
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:Warner Channel HD" tvg-logo="" group-title="OPCION 3",LA_FHD3:Warner Channel HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20886
-#EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:ESPN + HD" tvg-logo="" group-title="OPCION 3",LA_FHD3:ESPN + HD
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="OPCION 3",LA_FHD:ESPN Extra HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20887
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/12/17/starjpg.jpg_929788380.jpg" group-title="OPCION 3",STAR CHANNEL
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/20888
@@ -3818,7 +3818,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/32535
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/32536
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="OPCION 3",HGTV
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/32537
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 ARG SD
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 ARG SD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/33001
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="OPCION 3",TUDN MX (4)
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/33164
@@ -3902,7 +3902,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/35760
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/35829
 #EXTINF:-1 tvg-id="" tvg-name="US_HD:WWE NETWORK" tvg-logo="" group-title="OPCION 3",US_HD:WWE NETWORK
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/35861
-#EXTINF:-1 tvg-id="" tvg-name="US_HD:ESPN Deportes" tvg-logo="" group-title="OPCION 3",US_HD:ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="" group-title="OPCION 3",US_HD:ESPN Deportes
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/35870
 #EXTINF:-1 tvg-id="" tvg-name="US_HD:TELEMUNDO" tvg-logo="" group-title="OPCION 3",US_HD:TELEMUNDO
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/35886
@@ -3934,13 +3934,13 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36008
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36290
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://e7.pngegg.com/pngimages/552/474/png-clipart-sky-sports-premier-league-sky-uk-golf-premier-league-television-text.png" group-title="OPCION 3",Sky Sports LaLiga
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36291
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARGENTINA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg" group-title="OPCION 3",ESPN ARGENTINA
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg" group-title="OPCION 3",ESPN ARGENTINA
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36606
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 ARGENTINA
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 ARGENTINA
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36607
 #EXTINF:-1 tvg-id="" tvg-name="SYFY SUR" tvg-logo="https://e00-elmundo.uecdn.es/elmundo/imagenes/2009/03/17/1237221227_0.jpg" group-title="OPCION 3",SYFY SUR
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36608
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA ARGENTINA" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="OPCION 3",ESPN EXTRA ARGENTINA
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="OPCION 3",ESPN ARGENTINA
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36609
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="OPCION 3",UNIVERSAL CHANNEL HD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/36614
@@ -4030,11 +4030,11 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19398
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19399
 #EXTINF:-1 tvg-id="" tvg-name="LA..LQ:El Garage TV" tvg-logo="" group-title="OPCION 3",LA..LQ:El Garage TV
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19400
-#EXTINF:-1 tvg-id="" tvg-name="LA..LQ:ESPN Sur" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="OPCION 3",LA..LQ:ESPN Sur
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="OPCION 3",LA..LQ:ESPN Sur
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19401
-#EXTINF:-1 tvg-id="" tvg-name="LA..LQ:ESPN 2 Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="OPCION 3",LA..LQ:ESPN 2 Sur
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="OPCION 3",LA..LQ:ESPN MEX
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19402
-#EXTINF:-1 tvg-id="" tvg-name="LA..LQ:ESPN + Sur" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png" group-title="OPCION 3",LA..LQ:ESPN + Sur
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png" group-title="OPCION 3",LA..LQ:ESPN ESPN Extra
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19403
 #EXTINF:-1 tvg-id="" tvg-name="LA..LQ:Fox Sports Premium" tvg-logo="" group-title="OPCION 3",LA..LQ:Fox Sports Premium
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19405
@@ -4114,17 +4114,17 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/19646
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2073
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="OPCION 3",LA_SD:SUR_Fox Sports Premium
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2189
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 2 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 sd
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN MEX sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2220
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 3 sd" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 sd
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 MEX sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2221
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 sd
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2247
-#EXTINF:-1 tvg-id="" tvg-name="ESPN sd" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",ESPN sd
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",ESPN 2 sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2246
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 2 MX sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN 2 MX sd
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="OPCION 3",ESPN MX sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2248
-#EXTINF:-1 tvg-id="111ANZ" tvg-name="ESPN 3 sd" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 sd
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="OPCION 3",ESPN 3 sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2249
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="OPCION 3",ESPN PLUS
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2250
@@ -4134,7 +4134,7 @@ http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2251
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2252
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="OPCION 3",FOX SPORT 3 sd
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2253
-#EXTINF:-1 tvg-id="" tvg-name="ESPN_Colombia" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",ESPN_Colombia
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="OPCION 3",ESPN_Colombia
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2265
 #EXTINF:-1 tvg-id="111ANZ" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="OPCION 3",FOX SPORTS 2 SD
 http://redcoliptv.com:8090/Abris05./nEsxSueTMV/2305
@@ -4825,21 +4825,21 @@ http://odenfull.co:2086/142536/142536/57998
 http://odenfull.co:2086/142536/142536/57999
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS USA: FS2 " tvg-logo="" group-title="OPCION 4",SPORTS USA: FS2 
 http://odenfull.co:2086/142536/142536/58001
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA HD: ESPN NEWS" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN NEWS
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN NEWS
 http://odenfull.co:2086/142536/142536/58002
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA SD: ESPN 1" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN 1
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN 1
 http://odenfull.co:2086/142536/142536/58003
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA HD: ESPN 1" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN 1
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN 1
 http://odenfull.co:2086/142536/142536/58004
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA SD: ESPN 2" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN 2
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN 2
 http://odenfull.co:2086/142536/142536/58005
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA HD: ESPN 2" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN 2
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN 2
 http://odenfull.co:2086/142536/142536/58006
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA : ESPN U" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",SPORTS USA : ESPN U
+#EXTINF:-1 tvg-id="ESPNUniversity(src01).us" tvg-name="ESPN University" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",SPORTS USA : ESPN U
 http://odenfull.co:2086/142536/142536/58007
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA SD: ESPN SEC NETWORK " tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN SEC NETWORK 
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA SD: ESPN SEC NETWORK 
 http://odenfull.co:2086/142536/142536/58009
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS USA HD: ESPN  NETWORK " tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN  NETWORK 
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",SPORTS USA HD: ESPN  NETWORK 
 http://odenfull.co:2086/142536/142536/58010
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS USA HD: MSG 1" tvg-logo="https://i.ibb.co/QjX1t5c/MSG.png" group-title="OPCION 4",SPORTS USA HD: MSG 1
 http://odenfull.co:2086/142536/142536/58012
@@ -4951,33 +4951,33 @@ http://odenfull.co:2086/142536/142536/135283
 http://odenfull.co:2086/142536/142536/135284
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TNT SPORTS" tvg-logo="https://i.ibb.co/W5Fgd9L/tnt2.png" group-title="OPCION 4",DEP HD: TNT SPORTS
 http://odenfull.co:2086/142536/142536/135285
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 2 (COL)" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 2 (COL)
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="DEP HD: ESPN 2 (COL)" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 2 (COL)
 http://odenfull.co:2086/142536/142536/135286
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 (COL)" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP HD: ESPN 1 (COL)
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="DEP HD: ESPN 2 (COL)" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP HD: ESPN 2 (COL)
 http://odenfull.co:2086/142536/142536/135287
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 2 (COL) " tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP SD: ESPN 2 (COL) 
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="DEP HD: ESPN 2 (COL)" tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP SD: ESPN 2 (COL) 
 http://odenfull.co:2086/142536/142536/135289
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 2 (COL) " tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP HD: ESPN 2 (COL) 
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="DEP HD: ESPN 2 (COL)" tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP HD: ESPN 2 (COL) 
 http://odenfull.co:2086/142536/142536/135290
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 3 (COL) " tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP SD: ESPN 3 (COL) 
+#EXTINF:-1 tvg-id="ESPN3(South).co" tvg-name="LAT-ESPN3" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP SD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135291
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 3 (COL) " tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP HD: ESPN 3 (COL) 
+#EXTINF:-1 tvg-id="ESPN3(South).co" tvg-name="LAT-ESPN3" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP HD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135292
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 1 (ARG) " tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 1 (ARG) 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 1 (ARG) 
 http://odenfull.co:2086/142536/142536/135293
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 (ARG) " tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",DEP HD: ESPN 1 (ARG) 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",DEP HD: ESPN 1 (ARG) 
 http://odenfull.co:2086/142536/142536/135294
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 1COL" tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP SD: ESPN 1COL
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEP SD: ESPN 1 (COL)" tvg-logo="http://odenfull.co:2086/images/67e4b39d87a714251a6d0b917e17b5b1.png" group-title="OPCION 4",DEP SD: ESPN 1 COL
 http://odenfull.co:2086/142536/142536/135295
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 2 (ARG) " tvg-logo="https://i.ibb.co/Sw7hdZr/ESPN-2-ARGEN.png" group-title="OPCION 4",DEP HD: ESPN 2 (ARG) 
+#EXTINF:-1 tvg-id="ESPN3(South).co" tvg-name="LAT-ESPN3" tvg-logo="https://i.ibb.co/Sw7hdZr/ESPN-2-ARGEN.png" group-title="OPCION 4",DEP HD: ESPN 3 (COL) 
 http://odenfull.co:2086/142536/142536/135296
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 3 (ARG)" tvg-logo="http://odenfull.co:2086/images/78518790547fd7643ce4bd4965c7179e.png" group-title="OPCION 4",DEP SD: ESPN 3 (ARG)
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="http://odenfull.co:2086/images/78518790547fd7643ce4bd4965c7179e.png" group-title="OPCION 4",DEP SD: ESPN 1 (ARG)
 http://odenfull.co:2086/142536/142536/135297
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 3 (ARG)" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP HD: ESPN 3 (ARG)
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN -27" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="OPCION 4",DEP HD: ESPN 1 (ARG)
 http://odenfull.co:2086/142536/142536/135298
-#EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 1 (MEX)" tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 1 (MEX)
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN." tvg-logo="http://odenfull.co:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="OPCION 4",DEP SD: ESPN 1 (MEX)
 http://odenfull.co:2086/142536/142536/135299
-#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN 1 (MEX)" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",DEP HD: ESPN 1 (MEX)
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/fXnbPQS/espn.png" group-title="OPCION 4",DEP HD: ESPN 2 (MEX)
 http://odenfull.co:2086/142536/142536/135300
 #EXTINF:-1 tvg-id="" tvg-name="DEP SD: ESPN 2 (MEX)" tvg-logo="https://i.ibb.co/Sw7hdZr/ESPN-2-ARGEN.png" group-title="OPCION 4",DEP SD: ESPN 2 (MEX)
 http://odenfull.co:2086/142536/142536/135302
