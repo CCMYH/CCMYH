@@ -955,6 +955,222 @@ http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/144
 http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/145
 #EXTINF:-1 tvg-id="" tvg-name="24/7| CAPITAN PLANETA" tvg-logo="http://logos.naturalplus.live/logotipos/CAPITANPLANETA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| CAPITAN PLANETA
 http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/146
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CABALLEROS DEL ZODIACO" tvg-logo="http://tv.naturalplus.live:25461/images/a5ca28a0ff43d98e6b52ab260d7ec50b.png" group-title="CANALES 24/7",24/7| CABALLEROS DEL ZODIACO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/25
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CHESPIRITO" tvg-logo="http://tv.naturalplus.live:25461/images/630930e2858c6d19e9f90ff32f77869f.png" group-title="CANALES 24/7",24/7| CHESPIRITO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/24
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CORAJE EL PERRO COBARDE" tvg-logo="http://tv.naturalplus.live:25461/images/4072cdd0853fd00bf06dc5606f903796.png" group-title="CANALES 24/7",24/7| CORAJE EL PERRO COBARDE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/9
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DIGIMON AVENTURA 1" tvg-logo="http://tv.naturalplus.live:25461/images/324d48d6e4093ee4263496a6c9c1276f.png" group-title="CANALES 24/7",24/7| DIGIMON AVENTURA 1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/2
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DON GATO Y SU PANDILLA" tvg-logo="http://tv.naturalplus.live:25461/images/2b91d0e87d7e5b68e553c1aca334fc2f.png" group-title="CANALES 24/7",24/7| DON GATO Y SU PANDILLA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/20
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DOUG" tvg-logo="http://tv.naturalplus.live:25461/images/8c08fdac2bba2eaef6c69fc959345888.png" group-title="CANALES 24/7",24/7| DOUG
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/23
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL" tvg-logo="http://tv.naturalplus.live:25461/images/2566d83084eb1be64d7826216f5b1065.png" group-title="CANALES 24/7",24/7| DRAGON BALL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/14
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL AUTO FANTASTICO" tvg-logo="http://tv.naturalplus.live:25461/images/31cbb07cff1df6c35fd264faa6de9027.png" group-title="CANALES 24/7",24/7| EL AUTO FANTASTICO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/10
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL BARON ROJO" tvg-logo="http://tv.naturalplus.live:25461/images/3510b8beef80e726306a1b6f7b7aef11.png" group-title="CANALES 24/7",24/7| EL BARON ROJO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/3
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL CHAPULIN COLORADO ANIMADO" tvg-logo="http://tv.naturalplus.live:25461/images/e362513108d075cf492699d1805b9dce.png" group-title="CANALES 24/7",24/7| EL CHAPULIN COLORADO ANIMADO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/16
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL CHAVO ANIMADO" tvg-logo="http://tv.naturalplus.live:25461/images/83b77ddb5e0623e4bd2ea8a5c3b67d4b.png" group-title="CANALES 24/7",24/7| EL CHAVO ANIMADO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/13
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL CHAVO DEL 8" tvg-logo="http://tv.naturalplus.live:25461/images/bdacef83f0e50d07c2d70e863ea1e523.png" group-title="CANALES 24/7",24/7| EL CHAVO DEL 8
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL NARRADOR DE CUENTOS" tvg-logo="http://tv.naturalplus.live:25461/images/171bee9cc79b3609092d7bfee9538e41.png" group-title="CANALES 24/7",24/7| EL NARRADOR DE CUENTOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/11
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOBO DEL AIRE" tvg-logo="http://tv.naturalplus.live:25461/images/ad264177ff6032fc2142c3a9b66f2794.png" group-title="CANALES 24/7",24/7| LOBO DEL AIRE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/26
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS MAGNIFICOS" tvg-logo="http://tv.naturalplus.live:25461/images/f6b88d3d33d5416402f66960a8bbaec3.png" group-title="CANALES 24/7",24/7| LOS MAGNIFICOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/15
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS PICAPIEDRAS" tvg-logo="http://tv.naturalplus.live:25461/images/3c23227bbfd089f09cc1784b31aca6f2.png" group-title="CANALES 24/7",24/7| LOS PICAPIEDRAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/7
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MASHA Y EL OSO" tvg-logo="http://tv.naturalplus.live:25461/images/aa536b0aa5f51bc59a4336ac2e8873ce.png" group-title="CANALES 24/7",24/7| MASHA Y EL OSO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/19
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PATO AVENTURA" tvg-logo="http://tv.naturalplus.live:25461/images/e46b78fa2218a9dab3e7932c946ce218.png" group-title="CANALES 24/7",24/7| PATO AVENTURA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/28
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PATRULLA CANINA" tvg-logo="http://tv.naturalplus.live:25461/images/fcad0d964ea30b0f24ad70b611ab775f.png" group-title="CANALES 24/7",24/7| PATRULLA CANINA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/5
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PEPPA PIG" tvg-logo="http://tv.naturalplus.live:25461/images/69fa79224c33b501259aa5339c4e58a1.png" group-title="CANALES 24/7",24/7| PEPPA PIG
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/18
+#EXTINF:-1 tvg-id="" tvg-name="24/7| POCOYO" tvg-logo="http://tv.naturalplus.live:25461/images/b9370b777d6af00cd90fdcbc85788313.png" group-title="CANALES 24/7",24/7| POCOYO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/12
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TOM & JERRY" tvg-logo="http://tv.naturalplus.live:25461/images/4d6fbb7f03925b3ee4203c3214d92883.png" group-title="CANALES 24/7",24/7| TOM & JERRY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/17
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ALF" tvg-logo="http://tv.naturalplus.live:25461/images/9a276e31151b195fbbfaa0081d916aa5.png" group-title="CANALES 24/7",24/7| ALF
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/21
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SUPER CAMPEONES" tvg-logo="http://tv.naturalplus.live:25461/images/f35e9058d7ff962e9d33eddd5d2a8a23.png" group-title="CANALES 24/7",24/7| SUPER CAMPEONES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/22
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DORA LA EXPLORADORA" tvg-logo="http://tv.naturalplus.live:25461/images/ef999ea52b68d2d52d43962dd0efc6b4.png" group-title="CANALES 24/7",24/7| DORA LA EXPLORADORA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/29
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL COYOTE Y EL CORRECAMINOS" tvg-logo="http://tv.naturalplus.live:25461/images/b71c883d904085813f0a2204c043f3f6.png" group-title="CANALES 24/7",24/7| EL COYOTE Y EL CORRECAMINOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/30
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ANGEL LA NIÑA DE LAS FLORERS" tvg-logo="http://tv.naturalplus.live:25461/images/6b5d9a9d656f6fb6fb2b5175c1e527a6.png" group-title="CANALES 24/7",24/7| ANGEL LA NIÑA DE LAS FLORERS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/31
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL CHAPULIN COLORADO" tvg-logo="http://tv.naturalplus.live:25461/images/f6b4b44e603cc91abb349f205964abad.png" group-title="CANALES 24/7",24/7| EL CHAPULIN COLORADO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/32
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DEMON SLAYER" tvg-logo="http://tv.naturalplus.live:25461/images/b421dff6abbcb4ed205c6198c2a927ba.png" group-title="CANALES 24/7",24/7| DEMON SLAYER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/33
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS PEQUEÑOS PICAPIEDRAS" tvg-logo="http://tv.naturalplus.live:25461/images/56bbd1b87f00d06ae4648feff7b3962a.png" group-title="CANALES 24/7",24/7| LOS PEQUEÑOS PICAPIEDRAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/34
+#EXTINF:-1 tvg-id="" tvg-name="24/7| JEFE EN PAÑALES" tvg-logo="http://tv.naturalplus.live:25461/images/340e609a523d35eec90b077b8350fe7f.png" group-title="CANALES 24/7",24/7| JEFE EN PAÑALES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/35
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CALABOZOS Y DRAGONES" tvg-logo="http://tv.naturalplus.live:25461/images/be3ba19c633b072fb417d643b1ae1865.png" group-title="CANALES 24/7",24/7| CALABOZOS Y DRAGONES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/36
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA PEQUEÑA LULU" tvg-logo="http://tv.naturalplus.live:25461/images/c46a7509afce55392d89999f700f0459.png" group-title="CANALES 24/7",24/7| LA PEQUEÑA LULU
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/37
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HARRY POTTER" tvg-logo="http://tv.naturalplus.live:25461/images/59d87dc8671408de386c736bd736edea.png" group-title="CANALES 24/7",24/7| HARRY POTTER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/8
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL VENGADOR ANONIMO" tvg-logo="http://tv.naturalplus.live:25461/images/da9a96e370f17c1a94a352fc7dc866c8.png" group-title="CANALES 24/7",24/7| EL VENGADOR ANONIMO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/38
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CANTINFLAS" tvg-logo="http://tv.naturalplus.live:25461/images/804e42ee8f584c64f55e2c75652349f9.png" group-title="CANALES 24/7",24/7| CANTINFLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/39
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MANDALORIAN" tvg-logo="http://tv.naturalplus.live:25461/images/dfad1cfff4b95d9742edccf10b2c6426.png" group-title="CANALES 24/7",24/7| MANDALORIAN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/40
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CINEMA MARVEL" tvg-logo="http://tv.naturalplus.live:25461/images/1c33f9d57c36284f6a6696c3c7bcf1ce.png" group-title="CANALES 24/7",24/7| CINEMA MARVEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/41
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CINEMA DISNEY" tvg-logo="http://tv.naturalplus.live:25461/images/401d8bc8fdd4e97b72cdc5b489b959ec.png" group-title="CANALES 24/7",24/7| CINEMA DISNEY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/42
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TRANSFORMERS G1" tvg-logo="http://tv.naturalplus.live:25461/images/e552c92f87f6fad92f23798135a5b715.png" group-title="CANALES 24/7",24/7| TRANSFORMERS G1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/43
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TRANSFORMERS SUPER-GOD MASTERFORCE" tvg-logo="http://tv.naturalplus.live:25461/images/92325dfbce1634d719b38b1b2ccbe26d.png" group-title="CANALES 24/7",24/7| TRANSFORMERS SUPER-GOD MASTERFORCE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/44
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ARMA MORTAL" tvg-logo="http://tv.naturalplus.live:25461/images/9aec8808ca3568022b9436ba2b508430.png" group-title="CANALES 24/7",24/7| ARMA MORTAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/45
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TRANSFORMERS THE HEADMASTERS" tvg-logo="http://logos.naturalplus.live/logotipos/TRANSFORMERSTHEHEADMASTERS24HORAS.png" group-title="CANALES 24/7",24/7| TRANSFORMERS THE HEADMASTERS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/46
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TRANSFORMERS VICTORY" tvg-logo="http://tv.naturalplus.live:25461/images/6a47050e2899f56bb52f9cb9250d1ced.png" group-title="CANALES 24/7",24/7| TRANSFORMERS VICTORY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/47
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL Z" tvg-logo="http://tv.naturalplus.live:25461/images/9bf739e1c0b07c9e949dfc623ea7524b.png" group-title="CANALES 24/7",24/7| DRAGON BALL Z
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/48
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DIGIMON AVENTURA 2" tvg-logo="http://tv.naturalplus.live:25461/images/487bca82926e46affd976243996d9c53.png" group-title="CANALES 24/7",24/7| DIGIMON AVENTURA 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/49
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PINKY Y CEREBRO" tvg-logo="http://tv.naturalplus.live:25461/images/c72e60f2d27ec848a1785b8a4bf6d32f.png" group-title="CANALES 24/7",24/7| PINKY Y CEREBRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/4
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA CASA DE MICKY MOUSE" tvg-logo="http://tv.naturalplus.live:25461/images/f8d4fb65d59a683226cf5bb2f7b846f1.png" group-title="CANALES 24/7",24/7| LA CASA DE MICKY MOUSE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/6
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DINOSAURIOS" tvg-logo="http://tv.naturalplus.live:25461/images/0c30f20333b8a15ae36d88958dad6a09.png" group-title="CANALES 24/7",24/7| DINOSAURIOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/50
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS SIMPSONS" tvg-logo="http://tv.naturalplus.live:25461/images/025c8b74939379129fa4f3c2b1064551.png" group-title="CANALES 24/7",24/7| LOS SIMPSONS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/27
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL GT" tvg-logo="http://tv.naturalplus.live:25461/images/86eb0cdec1ee41f5176fabf77a35d1f2.png" group-title="CANALES 24/7",24/7| DRAGON BALL GT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/51
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PINKY ELMIRA Y CEREBRO" tvg-logo="http://tv.naturalplus.live:25461/images/74263dae906ec88080dfd53c09a73611.png" group-title="CANALES 24/7",24/7| PINKY ELMIRA Y CEREBRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/52
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SCOOBY DOO DONDE ESTAS !" tvg-logo="http://tv.naturalplus.live:25461/images/4d54d1bc4164f187ad27e0be1351fba2.png" group-title="CANALES 24/7",24/7| SCOOBY DOO DONDE ESTAS !
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/53
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HALCONES GALACTICOS" tvg-logo="http://tv.naturalplus.live:25461/images/f272135a6bf62d2295e5cdc7908df4f6.png" group-title="CANALES 24/7",24/7| HALCONES GALACTICOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/54
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SABRINA LA BRUJA ADOLECENTE" tvg-logo="http://tv.naturalplus.live:25461/images/f21caf3295d403790a70e01ea28eedb5.png" group-title="CANALES 24/7",24/7| SABRINA LA BRUJA ADOLECENTE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/55
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SHAGGY Y SCOOBY DOO DETECTIVES " tvg-logo="http://tv.naturalplus.live:25461/images/aeb2e17bcf4fa26af9eb80de06c3d1b6.png" group-title="CANALES 24/7",24/7| SHAGGY Y SCOOBY DOO DETECTIVES 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/56
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TIRO LOCO MCGRAW " tvg-logo="http://tv.naturalplus.live:25461/images/79f9ce916f1e77a92ba98a55b06f39ad.png" group-title="CANALES 24/7",24/7| TIRO LOCO MCGRAW 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/57
+#EXTINF:-1 tvg-id="" tvg-name="24/7| UNA FAMILIA DE DIEZ" tvg-logo="http://tv.naturalplus.live:25461/images/2bedb4e025328980394f7f4f8f11cbfe.png" group-title="CANALES 24/7",24/7| UNA FAMILIA DE DIEZ
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/58
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL HEROES" tvg-logo="http://tv.naturalplus.live:25461/images/acac1c49a59d98f4eb4e650dbaefa172.png" group-title="CANALES 24/7",24/7| DRAGON BALL HEROES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/61
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL SUPER" tvg-logo="http://tv.naturalplus.live:25461/images/c56757496ebaad917ec5f45323fcedb7.png" group-title="CANALES 24/7",24/7| DRAGON BALL SUPER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/59
+#EXTINF:-1 tvg-id="" tvg-name="24/7| THUNDERCATS " tvg-logo="http://tv.naturalplus.live:25461/images/326f0c6951635878bb6407f501f1a689.png" group-title="CANALES 24/7",24/7| THUNDERCATS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/60
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SUPER AGENTE 86" tvg-logo="http://tv.naturalplus.live:25461/images/6e6e9ea60b81057760735794efaa598f.png" group-title="CANALES 24/7",24/7| EL SUPER AGENTE 86
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/62
+#EXTINF:-1 tvg-id="" tvg-name="24/7| THE GOOD DOCTOR" tvg-logo="http://tv.naturalplus.live:25461/images/16857ebeeebe09cdce11936e5a201d09.png" group-title="CANALES 24/7",24/7| THE GOOD DOCTOR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/63
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA CASA DE PAPEL" tvg-logo="http://tv.naturalplus.live:25461/images/76f0dac992627cde11ba30b5b8352b24.png" group-title="CANALES 24/7",24/7| LA CASA DE PAPEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/65
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA HORMIGA ATOMICA " tvg-logo="http://tv.naturalplus.live:25461/images/2d0ea3a62b568dd821f5da92d868bc5c.png" group-title="CANALES 24/7",24/7| LA HORMIGA ATOMICA 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/66
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA HORMIGA Y EL OSO HORMIGUERO" tvg-logo="http://tv.naturalplus.live:25461/images/e820164dbc96ce6dd405549c92d2af5c.png" group-title="CANALES 24/7",24/7| LA HORMIGA Y EL OSO HORMIGUERO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/67
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL HOMBRE ARAÑA Y SUS SORPRENDENTES AMIGOS" tvg-logo="http://tv.naturalplus.live:25461/images/a1686353b4d3924cfe76907a78cfb4d9.png" group-title="CANALES 24/7",24/7| EL HOMBRE ARAÑA Y SUS SORPRENDENTES AMIGOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/68
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ESPIDER-WOMAN" tvg-logo="http://tv.naturalplus.live:25461/images/4885815e27f2874f9e0a06142eba0acb.png" group-title="CANALES 24/7",24/7| ESPIDER-WOMAN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/69
+#EXTINF:-1 tvg-id="" tvg-name="24/7| GARGOLAS" tvg-logo="http://tv.naturalplus.live:25461/images/2adf2a1bca77edcebf4e1ffd831df02b.png" group-title="CANALES 24/7",24/7| GARGOLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/64
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL GRAN MAESTRO" tvg-logo="http://tv.naturalplus.live:25461/images/d71ad32a8f39c02704950fa0b835d64e.png" group-title="CANALES 24/7",24/7| EL GRAN MAESTRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/70
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL GATO FELIX" tvg-logo="http://tv.naturalplus.live:25461/images/74380d453bb58ff5d5103e813cd0a8a7.png" group-title="CANALES 24/7",24/7| EL GATO FELIX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/71
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL JUEGO DEL CALAMAR" tvg-logo="http://tv.naturalplus.live:25461/images/304ed0217b05d852d2ebe0ee4b367a09.png" group-title="CANALES 24/7",24/7| EL JUEGO DEL CALAMAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/72
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA ABEJA MAYA" tvg-logo="http://tv.naturalplus.live:25461/images/95d26cac86584f5522ca99c74f3091bc.png" group-title="CANALES 24/7",24/7| LA ABEJA MAYA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/74
+#EXTINF:-1 tvg-id="" tvg-name="24/7| VECINOS" tvg-logo="http://tv.naturalplus.live:25461/images/af7b9184fc48f74fd371c3482420f006.png" group-title="CANALES 24/7",24/7| VECINOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/73
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA MUJER BIONICA" tvg-logo="http://tv.naturalplus.live:25461/images/f02d97f7cab89ed47a7a2a1088e20130.png" group-title="CANALES 24/7",24/7| LA MUJER BIONICA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/75
+#EXTINF:-1 tvg-id="" tvg-name="24/7|  LAS AVENTURAS DE TOM SAWYER" tvg-logo="http://tv.naturalplus.live:25461/images/834396ee56e22c3f7e868f99a2af8b6c.png" group-title="CANALES 24/7",24/7|  LAS AVENTURAS DE TOM SAWYER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/77
+#EXTINF:-1 tvg-id="" tvg-name="24/7| BEN 10" tvg-logo="http://tv.naturalplus.live:25461/images/7509b2e5141131b227b63578cf801db8.png" group-title="CANALES 24/7",24/7| BEN 10
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/80
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ¡ CARLY" tvg-logo="http://tv.naturalplus.live:25461/images/0700e90332996b67e480477e577613b8.png" group-title="CANALES 24/7",24/7| ¡ CARLY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/79
+#EXTINF:-1 tvg-id="" tvg-name="24/7| RAMBO,LA FUERZA DE LA LIBERTAD" tvg-logo="http://tv.naturalplus.live:25461/images/6f4fada473c4e8bc0db25dd809ed5bda.png" group-title="CANALES 24/7",24/7| RAMBO,LA FUERZA DE LA LIBERTAD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/78
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL PRINCIPE DEL RAP" tvg-logo="http://tv.naturalplus.live:25461/images/e49fa413d769f80c1887383395ce74da.png" group-title="CANALES 24/7",24/7| EL PRINCIPE DEL RAP
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/76
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA SIRENITA " tvg-logo="http://tv.naturalplus.live:25461/images/8ad154803ad8da01f39a4dc355b3aed0.png" group-title="CANALES 24/7",24/7| LA SIRENITA 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/81
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA FAMILIA MONSTERS " tvg-logo="http://tv.naturalplus.live:25461/images/21b6725b9590f2a1722e1e5c608c2ec1.png" group-title="CANALES 24/7",24/7| LA FAMILIA MONSTERS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/82
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA FAMILIA ADDAMS" tvg-logo="http://tv.naturalplus.live:25461/images/e55feaea6cd3be3624f8397502c51316.png" group-title="CANALES 24/7",24/7| LA FAMILIA ADDAMS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/83
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CONAN EL AVENTURERO" tvg-logo="http://tv.naturalplus.live:25461/images/a3b0c8b551477fbd5c386ead8eaab92c.png" group-title="CANALES 24/7",24/7| CONAN EL AVENTURERO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/84
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL REY SCORPION" tvg-logo="http://tv.naturalplus.live:25461/images/b45b18ea61fe3fb396a61cb10021d9ed.png" group-title="CANALES 24/7",24/7| EL REY SCORPION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/85
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DURO DE MATAR" tvg-logo="http://tv.naturalplus.live:25461/images/78f75d0f95d3bbaa97d5155b2f774f53.png" group-title="CANALES 24/7",24/7| DURO DE MATAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/86
+#EXTINF:-1 tvg-id="" tvg-name="24/7| RUGRATS:AVENTURAS EN PAÑALES" tvg-logo="http://tv.naturalplus.live:25461/images/b848f8939dcd8191ae33758d58b599fe.png" group-title="CANALES 24/7",24/7| RUGRATS:AVENTURAS EN PAÑALES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/87
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA MUJER MARAVILLA" tvg-logo="http://tv.naturalplus.live:25461/images/e66ed85352aa4d1febdfa8d0d3ed59cc.png" group-title="CANALES 24/7",24/7| LA MUJER MARAVILLA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/88
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS TRES CHIFLADOS " tvg-logo="http://tv.naturalplus.live:25461/images/1d29c9ddb9c8d57e19c1a65ecdc94b78.png" group-title="CANALES 24/7",24/7| LOS TRES CHIFLADOS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/89
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE BENNY HILL" tvg-logo="http://tv.naturalplus.live:25461/images/b305f12eb0e00163f08f0c94ac97882e.png" group-title="CANALES 24/7",24/7| EL SHOW DE BENNY HILL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/90
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MI POBRE ANGELITO" tvg-logo="http://tv.naturalplus.live:25461/images/88871e434cedfa0569439c26ad2db1d5.png" group-title="CANALES 24/7",24/7| MI POBRE ANGELITO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/91
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE LOS LOONEY TUNES" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDELOSLOONEYTUNES24HORAS.png" group-title="CANALES 24/7",24/7| EL SHOW DE LOS LOONEY TUNES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/92
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CINEMA TERROR" tvg-logo="http://logos.naturalplus.live/logotipos/CINEMATERROR24HORAS.png" group-title="CANALES 24/7",24/7| CINEMA TERROR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/93
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL HOMBRE NUCLEAR" tvg-logo="http://tv.naturalplus.live:25461/images/bfadd14a2702b95be6351d18998aa3a2.png" group-title="CANALES 24/7",24/7| EL HOMBRE NUCLEAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/94
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOONATICS " tvg-logo="http://logos.naturalplus.live/logotipos/LUNATICOS24HORAS.png" group-title="CANALES 24/7",24/7| LOONATICS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/95
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DEL PAJARO LOCO" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDELPAJAROLOCO24HORAS.png" group-title="CANALES 24/7",24/7| EL SHOW DEL PAJARO LOCO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/96
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL INSPECTOR" tvg-logo="http://logos.naturalplus.live/logotipos/ELINSPECTOR24HORAS.png" group-title="CANALES 24/7",24/7| EL INSPECTOR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/98
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HULK EL HOMBRE INCREIBLE" tvg-logo="http://logos.naturalplus.live/logotipos/HULKELHOMBREINCREIBLE24HORAS.png" group-title="CANALES 24/7",24/7| HULK EL HOMBRE INCREIBLE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/97
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL INSPECTOR ARDILLA" tvg-logo="http://logos.naturalplus.live/logotipos/ELINSPECTORARDILLA24HORAS.png" group-title="CANALES 24/7",24/7| EL INSPECTOR ARDILLA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/99
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ENREDADOS" tvg-logo="http://logos.naturalplus.live/logotipos/ENREDADOS24HORAS.png" group-title="CANALES 24/7",24/7| ENREDADOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/100
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE CANTINFLAS" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDECANTINFLAS24HORAS.png" group-title="CANALES 24/7",24/7| EL SHOW DE CANTINFLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/101
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CANDY CANDY" tvg-logo="http://logos.naturalplus.live/logotipos/CANDYCANDY24HORAS.png" group-title="CANALES 24/7",24/7| CANDY CANDY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/102
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SAILOR MOON" tvg-logo="http://logos.naturalplus.live/logotipos/SAILORMOON24HORAS.png" group-title="CANALES 24/7",24/7| SAILOR MOON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/103
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HARLEY QUINN" tvg-logo="http://logos.naturalplus.live/logotipos/HARLEYQUINN24HORAS.png" group-title="CANALES 24/7",24/7| HARLEY QUINN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/104
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA DOCTORA QUINN" tvg-logo="http://logos.naturalplus.live/logotipos/LADOCTORAQUIN24HORAS.png" group-title="CANALES 24/7",24/7| LA DOCTORA QUINN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/105
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MARADONA" tvg-logo="http://logos.naturalplus.live/logotipos/MARADONA24HORAS.png" group-title="CANALES 24/7",24/7| MARADONA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/106
+#EXTINF:-1 tvg-id="" tvg-name="24/7| FULL HOUSE" tvg-logo="http://logos.naturalplus.live/logotipos/FULLHOUSE24HORAS.png" group-title="CANALES 24/7",24/7| FULL HOUSE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/107
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ONE PIECE" tvg-logo="http://logos.naturalplus.live/logotipos/ONEPIECE24HORAS.png" group-title="CANALES 24/7",24/7| ONE PIECE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/108
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO POP HD" tvg-logo="http://51.15.181.146/iconos/pophbo.jpg" group-title="HD CINEMA (LAT)",HBO POP HD
 http://coresys.dvrdns.org:8080/delgado/delgado/7
 #EXTINF:-1 tvg-id="I373.80115.schedulesdirect.org" tvg-name="HBO Xtreme HD Dual Audio" tvg-logo="http://coresys.dvrdns.org:8080/images/14e5be8534712cdfcf38296392bc2bbf.jpg" group-title="HD CINEMA (LAT)",HBO Xtreme HD Dual Audio
