@@ -1,4 +1,960 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTINF:-1 tvg-id="A&E *HD" tvg-name="CINE HD| A&E" tvg-logo="http://tv.naturalplus.live:25461/images/e268203a5d92464c9a3c5f94b4386863.png" group-title="CINE & SERIES HD",CINE HD| A&E
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/301
+#EXTINF:-1 tvg-id="AMC *HD" tvg-name="CINE HD| AMC" tvg-logo="http://tv.naturalplus.live:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CINE & SERIES HD",CINE HD| AMC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/302
+#EXTINF:-1 tvg-id="AXN *HQ" tvg-name="CINE HD| AXN" tvg-logo="http://tv.naturalplus.live:25461/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CINE & SERIES HD",CINE HD| AXN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/303
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| CINE DINAMITA" tvg-logo="http://tv.naturalplus.live:25461/images/516b552a0627108134cef66cdf79d6d6.png" group-title="CINE & SERIES HD",CINE HD| CINE DINAMITA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/309
+#EXTINF:-1 tvg-id="" tvg-name="CINE HQ| CINE LATINO" tvg-logo="http://tv.naturalplus.live:25461/images/eb930880c3e1b2eb73cafa0fac48cc48.png" group-title="CINE & SERIES HD",CINE HQ| CINE LATINO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/306
+#EXTINF:-1 tvg-id="CINECANAL *FHD" tvg-name="CINE HD| CINECANAL" tvg-logo="http://tv.naturalplus.live:25461/images/94f711b4753864794b3162831ecb3f0d.png" group-title="CINE & SERIES HD",CINE HD| CINECANAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/307
+#EXTINF:-1 tvg-id="CINEMAX *HD" tvg-name="CINE HQ| CINEMAX" tvg-logo="http://tv.naturalplus.live:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CINE & SERIES HD",CINE HQ| CINEMAX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/308
+#EXTINF:-1 tvg-id="COMEDY CENTRAL *HD" tvg-name="CINE HD| COMEDY CENTRAL" tvg-logo="http://tv.naturalplus.live:25461/images/c6eee02d420ea235ae4cb8e5cf62c393.png" group-title="CINE & SERIES HD",CINE HD| COMEDY CENTRAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/310
+#EXTINF:-1 tvg-id="DHE *HD" tvg-name="CINE HD| DHE" tvg-logo="http://tv.naturalplus.live:25461/images/26f61b24028d039f04a9e2207396d735.png" group-title="CINE & SERIES HD",CINE HD| DHE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/313
+#EXTINF:-1 tvg-id="DEPELICULA *HD" tvg-name="CINE HD| DPELICULAS" tvg-logo="http://tv.naturalplus.live:25461/images/8f14bdb5de5a8097affa91bf0bf9c77d.png" group-title="CINE & SERIES HD",CINE HD| DPELICULAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/311
+#EXTINF:-1 tvg-id="DEPELICULA PLUS *HD" tvg-name="CINE HD| DPELICULAS PLUS" tvg-logo="http://tv.naturalplus.live:25461/images/8f14bdb5de5a8097affa91bf0bf9c77d.png" group-title="CINE & SERIES HD",CINE HD| DPELICULAS PLUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/312
+#EXTINF:-1 tvg-id="FILM & ART *HD" tvg-name="CINE HD| FILM & ART" tvg-logo="http://tv.naturalplus.live:25461/images/4214c7121c87189f5f89a43d75da7143.png" group-title="CINE & SERIES HD",CINE HD| FILM & ART
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/314
+#EXTINF:-1 tvg-id="FXM *HD" tvg-name="CINE HD| FXM" tvg-logo="http://tv.naturalplus.live:25461/images/8eaa630fee1e5f33ea698a570f488c8e.png" group-title="CINE & SERIES HD",CINE HD| FXM
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/325
+#EXTINF:-1 tvg-id="GOLDEN *HQ" tvg-name="CINE HD| GOLDEN" tvg-logo="http://tv.naturalplus.live:25461/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="CINE & SERIES HD",CINE HD| GOLDEN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/326
+#EXTINF:-1 tvg-id="GOLDEN EDGE *HD" tvg-name="CINE HD| GOLDEN EDGE" tvg-logo="http://tv.naturalplus.live:25461/images/91019a5463e546d88723d04941e78457.png" group-title="CINE & SERIES HD",CINE HD| GOLDEN EDGE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/327
+#EXTINF:-1 tvg-id="GOLDEN PLUS *HD" tvg-name="CINE HD| GOLDEN PLUS" tvg-logo="http://tv.naturalplus.live:25461/images/3b4dbfea601995d813105956e222de86.png" group-title="CINE & SERIES HD",CINE HD| GOLDEN PLUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/328
+#EXTINF:-1 tvg-id="GOLDEN PREMIER *HD" tvg-name="CINE HD| GOLDEN PREMIER" tvg-logo="http://tv.naturalplus.live:25461/images/e728e4314384881c9615ac4cb22c5e51.png" group-title="CINE & SERIES HD",CINE HD| GOLDEN PREMIER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/329
+#EXTINF:-1 tvg-id="ISAT *FHD" tvg-name="CINE HD| I-SAT" tvg-logo="http://tv.naturalplus.live:25461/images/599d89a71fd2107680db91ff858f733b.png" group-title="CINE & SERIES HD",CINE HD| I-SAT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/339
+#EXTINF:-1 tvg-id="LIFETIME *HQ" tvg-name="CINE HQ| LIFE TIME" tvg-logo="http://tv.naturalplus.live:25461/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="CINE & SERIES HD",CINE HQ| LIFE TIME
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/340
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL *FHD" tvg-name="CINE HD| PARAMOUNT CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CINE & SERIES HD",CINE HD| PARAMOUNT CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/342
+#EXTINF:-1 tvg-id="SONY *HD" tvg-name="CINE HD| SONY" tvg-logo="http://logos.naturalplus.live/logotipos/SONYLOGOMORADO.png" group-title="CINE & SERIES HD",CINE HD| SONY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/343
+#EXTINF:-1 tvg-id="SPACE *FHD" tvg-name="CINE HD| SPACE" tvg-logo="http://tv.naturalplus.live:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="CINE & SERIES HD",CINE HD| SPACE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/344
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL *HD" tvg-name="CINE HD| STUDIO UNIVERSAL" tvg-logo="http://tv.naturalplus.live:25461/images/c944634550c698febdd9c868db908d9d.png" group-title="CINE & SERIES HD",CINE HD| STUDIO UNIVERSAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/347
+#EXTINF:-1 tvg-id="USA | Sundance TV" tvg-name="CINE HD| SUNDANCE" tvg-logo="http://tv.naturalplus.live:25461/images/4c79a81ed3f9dd4ff6ae6ccb3abd3ea6.png" group-title="CINE & SERIES HD",CINE HD| SUNDANCE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/346
+#EXTINF:-1 tvg-id="SYFY *HQ" tvg-name="CINE HD| SYFY" tvg-logo="http://tv.naturalplus.live:25461/images/14831b3a087423067dd5af937a12204b.png" group-title="CINE & SERIES HD",CINE HD| SYFY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/345
+#EXTINF:-1 tvg-id="TBS *HD" tvg-name="CINE HD| TBS" tvg-logo="http://tv.naturalplus.live:25461/images/22336708eb7ea740187c7128948dc29f.png" group-title="CINE & SERIES HD",CINE HD| TBS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/348
+#EXTINF:-1 tvg-id="TNT *HD" tvg-name="CINE HD| TNT" tvg-logo="http://tv.naturalplus.live:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE & SERIES HD",CINE HD| TNT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/350
+#EXTINF:-1 tvg-id="TNT SERIES *HD" tvg-name="CINE HD| TNT SERIES" tvg-logo="http://tv.naturalplus.live:25461/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE & SERIES HD",CINE HD| TNT SERIES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/351
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL *HD" tvg-name="CINE HD| UNIVERSAL CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/d22915a37ceec60c116bd148211e410a.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSAL CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/352
+#EXTINF:-1 tvg-id="WARNER CHANNEL *HD" tvg-name="CINE HD| WARNER CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/7045285833051e7c13eed2002f02311f.png" group-title="CINE & SERIES HD",CINE HD| WARNER CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/353
+#EXTINF:-1 tvg-id="ANIMAL PLANET *HD" tvg-name="CULT HD| ANIMAL PLANET" tvg-logo="http://tv.naturalplus.live:25461/images/1e4483e833025ac10e6184e75cb2d19d.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| ANIMAL PLANET
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/561
+#EXTINF:-1 tvg-id="DISCOVERY ID *HD" tvg-name="CULT HD| DISCOVERY ID" tvg-logo="http://tv.naturalplus.live:25461/images/5b944018daba634e3d83ee373b2e7a5a.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY ID
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/559
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE *HD" tvg-name="CULT HQ| DISCOVERY SCIENCIE" tvg-logo="http://tv.naturalplus.live:25461/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="CULTURA & EDUCATIVOS HD",CULT HQ| DISCOVERY SCIENCIE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/558
+#EXTINF:-1 tvg-id="DISCOVERY THEATER *HD" tvg-name="CULT HD| DISCOVERY THEATHER" tvg-logo="http://tv.naturalplus.live:25461/images/c02e20b3a5e776914050a01c27e07146.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY THEATHER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/557
+#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="CULT HD| DISCOVERY WORLD" tvg-logo="http://tv.naturalplus.live:25461/images/8d06f0e168db7d4b4e8b446d91e3bff7.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY WORLD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/555
+#EXTINF:-1 tvg-id="NAT GEO WILD *HD" tvg-name="CULT HD| NAT GEO WILD" tvg-logo="http://tv.naturalplus.live:25461/images/757a717ee2ade661c665276734c83b16.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| NAT GEO WILD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/552
+#EXTINF:-1 tvg-id="BABY TV *HD" tvg-name="KIDS HD| BABY TV" tvg-logo="http://tv.naturalplus.live:25461/images/6848d756da66e55b42f79c0728e351ad.png" group-title="INFANTILES",KIDS HD| BABY TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/716
+#EXTINF:-1 tvg-id="BOOMERANG *HD" tvg-name="KIDS HD| BOOMERANG" tvg-logo="http://tv.naturalplus.live:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="INFANTILES",KIDS HD| BOOMERANG
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/714
+#EXTINF:-1 tvg-id="CARTOON NETWORK *HD" tvg-name="KIDS HD| CARTOON NETWORK" tvg-logo="http://tv.naturalplus.live:25461/images/46e25e123679ab1c022b431dc86ee0a2.png" group-title="INFANTILES",KIDS HD| CARTOON NETWORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/713
+#EXTINF:-1 tvg-id="DISCOVERY KIDS *HD" tvg-name="KIDS HD| DISCOVERY KIDS" tvg-logo="http://tv.naturalplus.live:25461/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="INFANTILES",KIDS HD| DISCOVERY KIDS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/711
+#EXTINF:-1 tvg-id="DISNEY CHANNEL *HD" tvg-name="KIDS HD| DISNEY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/41981c53bb8e17386acd314b047c43da.png" group-title="INFANTILES",KIDS HD| DISNEY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/708
+#EXTINF:-1 tvg-id="DISNEY JR *HD" tvg-name="KIDS HD| DISNEY JR" tvg-logo="http://tv.naturalplus.live:25461/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="INFANTILES",KIDS HD| DISNEY JR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/710
+#EXTINF:-1 tvg-id="DISNEY XD *HD" tvg-name="KIDS HQ| DISNEY XD" tvg-logo="http://tv.naturalplus.live:25461/images/45d885c5863ede023a0685926f9c7963.png" group-title="INFANTILES",KIDS HQ| DISNEY XD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/709
+#EXTINF:-1 tvg-id="NAT GEO KIDS *HD" tvg-name="KIDS HD| NATGEO KIDS" tvg-logo="http://tv.naturalplus.live:25461/images/fd6332a5c647a54006e0184ca7e43be6.png" group-title="INFANTILES",KIDS HD| NATGEO KIDS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/712
+#EXTINF:-1 tvg-id="ES | NICK JUNIOR" tvg-name="KIDS HD| NICK" tvg-logo="http://tv.naturalplus.live:25461/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="INFANTILES",KIDS HD| NICK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/705
+#EXTINF:-1 tvg-id="NICK 2 *HD" tvg-name="KIDS HD| NICK 2" tvg-logo="http://tv.naturalplus.live:25461/images/7a34bd73aacf0d671fa850c24bf25c4d.png" group-title="INFANTILES",KIDS HD| NICK 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/706
+#EXTINF:-1 tvg-id="NICK JR *HD" tvg-name="KIDS HD| NICK JR" tvg-logo="http://tv.naturalplus.live:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="INFANTILES",KIDS HD| NICK JR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/704
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD| NICK MUSIC" tvg-logo="http://tv.naturalplus.live:25461/images/675d5bc11f79b4761671d9eae34ff788.png" group-title="INFANTILES",KIDS HD| NICK MUSIC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/702
+#EXTINF:-1 tvg-id="NICKELODEON *HD" tvg-name="KIDS HD| NICKELODEON" tvg-logo="http://tv.naturalplus.live:25461/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="INFANTILES",KIDS HD| NICKELODEON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/707
+#EXTINF:-1 tvg-id="NICKTOONS *HD" tvg-name="KIDS HD| NICKTOONS" tvg-logo="http://tv.naturalplus.live:25461/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="INFANTILES",KIDS HD| NICKTOONS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/703
+#EXTINF:-1 tvg-id="TOONCAST *HD" tvg-name="KIDS HD| TOONCAST" tvg-logo="http://tv.naturalplus.live:25461/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="INFANTILES",KIDS HD| TOONCAST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/715
+#EXTINF:-1 tvg-id="FX *HD" tvg-name="CINE HD| FX" tvg-logo="http://tv.naturalplus.live:25461/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CINE & SERIES HD",CINE HD| FX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/324
+#EXTINF:-1 tvg-id="NAT GEO *HQ" tvg-name="CULT HD| NATIONAL GEOGRAFHY" tvg-logo="http://tv.naturalplus.live:25461/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| NATIONAL GEOGRAFHY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/553
+#EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="CULT HD| DISCOVERY HOME & HEART" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY HOME & HEART
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/556
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HD" tvg-name="CULT HD| DISCOVERY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/e3d4370296451491db771140cd44ea6d.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/560
+#EXTINF:-1 tvg-id="HISTORY *HD" tvg-name="CULT HD| HISTORY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| HISTORY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/554
+#EXTINF:-1 tvg-id="TRU TV *HD" tvg-name="CULT HD| TRU TV" tvg-logo="http://tv.naturalplus.live:25461/images/fdbb17cf13c759253764469048ffb71c.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| TRU TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/551
+#EXTINF:-1 tvg-id="MX | GLITZ" tvg-name="CULT HQ| GLITZ" tvg-logo="http://tv.naturalplus.live:25461/images/672b1e33b157d94153c5cc18401b2f1a.png" group-title="CULTURA & EDUCATIVOS HD",CULT HQ| GLITZ
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/562
+#EXTINF:-1 tvg-id="BR | HISTORY 2 *HD" tvg-name="CULT HD| HISTORY 2" tvg-logo="http://tv.naturalplus.live:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| HISTORY 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/563
+#EXTINF:-1 tvg-id="TLC *HD" tvg-name="CULT HD| DISCOVERY TLC" tvg-logo="http://tv.naturalplus.live:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CULTURA & EDUCATIVOS HD",CULT HD| DISCOVERY TLC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/564
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD| PEQUE RADIO" tvg-logo="http://tv.naturalplus.live:25461/images/eb87b5ef3698955a156910988dc306a0.png" group-title="INFANTILES",KIDS HD| PEQUE RADIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/717
+#EXTINF:-1 tvg-id="" tvg-name="CINE HQ| CINEMA PLUS" tvg-logo="http://tv.naturalplus.live:25461/images/89542da70f97174166962870c6842526.png" group-title="CINE & SERIES HD",CINE HQ| CINEMA PLUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/305
+#EXTINF:-1 tvg-id="" tvg-name="CINE HQ| MULTIPREMIER" tvg-logo="http://tv.naturalplus.live:25461/images/19ad8cfebfc73379c8817c162763f874.png" group-title="CINE & SERIES HD",CINE HQ| MULTIPREMIER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/341
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD| ZOOMOO" tvg-logo="http://tv.naturalplus.live:25461/images/347c530260cf813a4f716add71d72541.png" group-title="INFANTILES",KIDS HD| ZOOMOO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/701
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD| STARZ ENCORE" tvg-logo="http://tv.naturalplus.live:25461/images/29cd27d15f40d2e83e135eb423f1441d.png" group-title="CINE & SERIES HD",CINE HD| STARZ ENCORE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/354
+#EXTINF:-1 tvg-id="A&E *HD" tvg-name="CINE| A&E" tvg-logo="http://tv.naturalplus.live:25461/images/e268203a5d92464c9a3c5f94b4386863.png" group-title="CINE & SERIES",CINE| A&E
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/201
+#EXTINF:-1 tvg-id="AMC *HD" tvg-name="CINE| AMC" tvg-logo="http://tv.naturalplus.live:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CINE & SERIES",CINE| AMC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/202
+#EXTINF:-1 tvg-id="AXN *HQ" tvg-name="CINE| AXN" tvg-logo="http://tv.naturalplus.live:25461/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CINE & SERIES",CINE| AXN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/203
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE DINAMITA" tvg-logo="http://tv.naturalplus.live:25461/images/516b552a0627108134cef66cdf79d6d6.png" group-title="CINE & SERIES",CINE| CINE DINAMITA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/209
+#EXTINF:-1 tvg-id="CINECANAL *HD" tvg-name="CINE| CINECANAL" tvg-logo="http://tv.naturalplus.live:25461/images/94f711b4753864794b3162831ecb3f0d.png" group-title="CINE & SERIES",CINE| CINECANAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/207
+#EXTINF:-1 tvg-id="CINEMAX *HD" tvg-name="CINE| CINEMAX" tvg-logo="http://tv.naturalplus.live:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CINE & SERIES",CINE| CINEMAX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/208
+#EXTINF:-1 tvg-id="COMEDY CENTRAL *HD" tvg-name="CINE| COMEDY CENTRAL" tvg-logo="http://tv.naturalplus.live:25461/images/c6eee02d420ea235ae4cb8e5cf62c393.png" group-title="CINE & SERIES",CINE| COMEDY CENTRAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/210
+#EXTINF:-1 tvg-id="DHE *HD" tvg-name="CINE| DHE" tvg-logo="http://tv.naturalplus.live:25461/images/26f61b24028d039f04a9e2207396d735.png" group-title="CINE & SERIES",CINE| DHE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/213
+#EXTINF:-1 tvg-id="DEPELICULA *HD" tvg-name="CINE| DEPELICULAS" tvg-logo="http://tv.naturalplus.live:25461/images/8f14bdb5de5a8097affa91bf0bf9c77d.png" group-title="CINE & SERIES",CINE| DEPELICULAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/211
+#EXTINF:-1 tvg-id="DEPELICULA PLUS *HD" tvg-name="CINE| DEPELICULAS PLUS" tvg-logo="http://tv.naturalplus.live:25461/images/8f14bdb5de5a8097affa91bf0bf9c77d.png" group-title="CINE & SERIES",CINE| DEPELICULAS PLUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/212
+#EXTINF:-1 tvg-id="FILM & ART *HD" tvg-name="CINE| FILM & ART" tvg-logo="http://tv.naturalplus.live:25461/images/4214c7121c87189f5f89a43d75da7143.png" group-title="CINE & SERIES",CINE| FILM & ART
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/214
+#EXTINF:-1 tvg-id="FX *HD" tvg-name="CINE| FX" tvg-logo="http://tv.naturalplus.live:25461/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CINE & SERIES",CINE| FX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/224
+#EXTINF:-1 tvg-id="FXM *HD" tvg-name="CINE| FXM" tvg-logo="http://tv.naturalplus.live:25461/images/8eaa630fee1e5f33ea698a570f488c8e.png" group-title="CINE & SERIES",CINE| FXM
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/225
+#EXTINF:-1 tvg-id="GOLDEN *HD" tvg-name="CINE| GOLDEN" tvg-logo="http://tv.naturalplus.live:25461/images/c773fdef3889bdadbe809f1e8aaeea46.png" group-title="CINE & SERIES",CINE| GOLDEN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/226
+#EXTINF:-1 tvg-id="GOLDEN EDGE *HD" tvg-name="CINE| GOLDEN EDGE" tvg-logo="http://tv.naturalplus.live:25461/images/91019a5463e546d88723d04941e78457.png" group-title="CINE & SERIES",CINE| GOLDEN EDGE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/227
+#EXTINF:-1 tvg-id="GOLDEN PLUS *HD" tvg-name="CINE| GOLDEN PLUS" tvg-logo="http://tv.naturalplus.live:25461/images/3b4dbfea601995d813105956e222de86.png" group-title="CINE & SERIES",CINE| GOLDEN PLUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/228
+#EXTINF:-1 tvg-id="GOLDEN PREMIER *HD" tvg-name="CINE| GOLDEN PREMIER" tvg-logo="http://tv.naturalplus.live:25461/images/e728e4314384881c9615ac4cb22c5e51.png" group-title="CINE & SERIES",CINE| GOLDEN PREMIER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/229
+#EXTINF:-1 tvg-id="ISAT *HD" tvg-name="CINE| I-SAT" tvg-logo="http://tv.naturalplus.live:25461/images/599d89a71fd2107680db91ff858f733b.png" group-title="CINE & SERIES",CINE| I-SAT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/239
+#EXTINF:-1 tvg-id="LIFETIME *HQ" tvg-name="CINE| LIFE TIME" tvg-logo="http://tv.naturalplus.live:25461/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="CINE & SERIES",CINE| LIFE TIME
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/240
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL *HD" tvg-name="CINE| PARAMOUNT CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CINE & SERIES",CINE| PARAMOUNT CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/242
+#EXTINF:-1 tvg-id="SONY *HD" tvg-name="CINE| SONY" tvg-logo="http://logos.naturalplus.live/logotipos/SONYLOGOMORADO.png" group-title="CINE & SERIES",CINE| SONY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/243
+#EXTINF:-1 tvg-id="SPACE *HD" tvg-name="CINE| SPACE" tvg-logo="http://tv.naturalplus.live:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="CINE & SERIES",CINE| SPACE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/244
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL *HD" tvg-name="CINE| STUDIO UNIVERSAL" tvg-logo="http://tv.naturalplus.live:25461/images/c944634550c698febdd9c868db908d9d.png" group-title="CINE & SERIES",CINE| STUDIO UNIVERSAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/247
+#EXTINF:-1 tvg-id="ES | SUNDANCE HD" tvg-name="CINE| SUNDANCE" tvg-logo="http://tv.naturalplus.live:25461/images/4c79a81ed3f9dd4ff6ae6ccb3abd3ea6.png" group-title="CINE & SERIES",CINE| SUNDANCE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/246
+#EXTINF:-1 tvg-id="SYFY *HD" tvg-name="CINE| SYFY" tvg-logo="http://tv.naturalplus.live:25461/images/14831b3a087423067dd5af937a12204b.png" group-title="CINE & SERIES",CINE| SYFY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/245
+#EXTINF:-1 tvg-id="TBS *HD" tvg-name="CINE| TBS" tvg-logo="http://tv.naturalplus.live:25461/images/22336708eb7ea740187c7128948dc29f.png" group-title="CINE & SERIES",CINE| TBS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/248
+#EXTINF:-1 tvg-id="TCM *HD" tvg-name="CINE| TCM" tvg-logo="http://tv.naturalplus.live:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="CINE & SERIES",CINE| TCM
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/249
+#EXTINF:-1 tvg-id="TNT *HD" tvg-name="CINE| TNT" tvg-logo="http://tv.naturalplus.live:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE & SERIES",CINE| TNT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/250
+#EXTINF:-1 tvg-id="TNT SERIES *HD" tvg-name="CINE| TNT SERIES" tvg-logo="http://tv.naturalplus.live:25461/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE & SERIES",CINE| TNT SERIES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/251
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL *HD" tvg-name="CINE| UNIVERSAL CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/d22915a37ceec60c116bd148211e410a.png" group-title="CINE & SERIES",CINE| UNIVERSAL CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/252
+#EXTINF:-1 tvg-id="WARNER CHANNEL *HD" tvg-name="CINE| WARNER CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/7045285833051e7c13eed2002f02311f.png" group-title="CINE & SERIES",CINE| WARNER CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/253
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HD" tvg-name="CULT| DISCOVERY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/e3d4370296451491db771140cd44ea6d.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/518
+#EXTINF:-1 tvg-id="USA | Discovery Family" tvg-name="CULT| DISCOVERY FAMILIA" tvg-logo="http://tv.naturalplus.live:25461/images/2bea29d79ba9d508846f825df45015fc.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY FAMILIA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/517
+#EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="CULT| DISCOVERY HOME & HEALTH" tvg-logo="http://tv.naturalplus.live:25461/images/8292e81ddd286cd8342806087514c06e.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY HOME & HEALTH
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/516
+#EXTINF:-1 tvg-id="DISCOVERY ID *HD" tvg-name="CULT| DISCOVERY INVESTIGATION" tvg-logo="http://tv.naturalplus.live:25461/images/5b944018daba634e3d83ee373b2e7a5a.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY INVESTIGATION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/515
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE *HQ" tvg-name="CULT| DISCOVERY SCIENCIE" tvg-logo="http://tv.naturalplus.live:25461/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY SCIENCIE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/514
+#EXTINF:-1 tvg-id="DISCOVERY THEATER *HD" tvg-name="CULT| DISCOVERY THEATHER" tvg-logo="http://tv.naturalplus.live:25461/images/c02e20b3a5e776914050a01c27e07146.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY THEATHER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/513
+#EXTINF:-1 tvg-id="TLC *HD" tvg-name="CULT| DISCOVERY TLC" tvg-logo="http://tv.naturalplus.live:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY TLC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/504
+#EXTINF:-1 tvg-id="DISCOVERY TURBO *HD" tvg-name="CULT| DISCOVERY TURBO" tvg-logo="http://tv.naturalplus.live:25461/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY TURBO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/512
+#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="CULT| DISCOVERY WORLD" tvg-logo="http://tv.naturalplus.live:25461/images/8d06f0e168db7d4b4e8b446d91e3bff7.png" group-title="CULTURAS & EDUCATIVOS",CULT| DISCOVERY WORLD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/511
+#EXTINF:-1 tvg-id="E! ENTERTAIMENT *HD" tvg-name="CULT| E! ENTRETENIMIENTO" tvg-logo="http://tv.naturalplus.live:25461/images/8cfab66378d7ce172f3774d0bd05a3be.png" group-title="CULTURAS & EDUCATIVOS",CULT| E! ENTRETENIMIENTO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/520
+#EXTINF:-1 tvg-id="EL GOURMET *HD" tvg-name="CULT| EL GOURMET" tvg-logo="http://tv.naturalplus.live:25461/images/01d5025d4b2efb5843ed430f331b87fc.png" group-title="CULTURAS & EDUCATIVOS",CULT| EL GOURMET
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/502
+#EXTINF:-1 tvg-id="FOOD NETWORK *HD" tvg-name="CULT| FOOD NETWORK" tvg-logo="http://tv.naturalplus.live:25461/images/62506be34d574da4a0d158a67253ea99.png" group-title="CULTURAS & EDUCATIVOS",CULT| FOOD NETWORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/501
+#EXTINF:-1 tvg-id="MX | GLITZ" tvg-name="CULT| GLITZ" tvg-logo="http://tv.naturalplus.live:25461/images/672b1e33b157d94153c5cc18401b2f1a.png" group-title="CULTURAS & EDUCATIVOS",CULT| GLITZ
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/510
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="CULT| HGTV" tvg-logo="http://tv.naturalplus.live:25461/images/5a23451ccebcecbc16a7870726d1c0d9.png" group-title="CULTURAS & EDUCATIVOS",CULT| HGTV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/509
+#EXTINF:-1 tvg-id="BR | HISTORY 2 *HD" tvg-name="CULT| HISTORY 2" tvg-logo="http://tv.naturalplus.live:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="CULTURAS & EDUCATIVOS",CULT| HISTORY 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/508
+#EXTINF:-1 tvg-id="HISTORY *HD" tvg-name="CULT| HISTORY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="CULTURAS & EDUCATIVOS",CULT| HISTORY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/507
+#EXTINF:-1 tvg-id="NAT GEO WILD *HD" tvg-name="CULT| NATGEO WILD" tvg-logo="http://tv.naturalplus.live:25461/images/757a717ee2ade661c665276734c83b16.png" group-title="CULTURAS & EDUCATIVOS",CULT| NATGEO WILD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/505
+#EXTINF:-1 tvg-id="NAT GEO *HQ" tvg-name="CULT| NATIONAL GEOGRAFHY" tvg-logo="http://tv.naturalplus.live:25461/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="CULTURAS & EDUCATIVOS",CULT| NATIONAL GEOGRAFHY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/506
+#EXTINF:-1 tvg-id="TRU TV *HD" tvg-name="CULT| TRU TV" tvg-logo="http://tv.naturalplus.live:25461/images/fdbb17cf13c759253764469048ffb71c.png" group-title="CULTURAS & EDUCATIVOS",CULT| TRU TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/503
+#EXTINF:-1 tvg-id="NT | CNN ESPANOL *HQ" tvg-name="NOTICIAS| CNN ESPAÑOL" tvg-logo="http://tv.naturalplus.live:25461/images/27a2ba74ed67c844bc80ab9451741527.png" group-title="NOTICIAS",NOTICIAS| CNN ESPAÑOL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/784
+#EXTINF:-1 tvg-id="NT | CNN INTERNACIONAL *HD" tvg-name="NOTICIAS| CNN INTERNACIONAL" tvg-logo="http://tv.naturalplus.live:25461/images/30a07a89c0993c71176693709627e4c6.png" group-title="NOTICIAS",NOTICIAS| CNN INTERNACIONAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/785
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS| CORONAVIRUS" tvg-logo="http://tv.naturalplus.live:25461/images/2335918d9be4e970d5e3477b860a79d9.png" group-title="NOTICIAS",NOTICIAS| CORONAVIRUS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/776
+#EXTINF:-1 tvg-id="MX | DW" tvg-name="NOTICIAS| DW" tvg-logo="http://tv.naturalplus.live:25461/images/1f2121f36f817bd18540e5fa7de06f59.png" group-title="NOTICIAS",NOTICIAS| DW
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/783
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS| EURO NEWS" tvg-logo="http://tv.naturalplus.live:25461/images/2acae8be44a70913481e66dd2cd3f761.png" group-title="NOTICIAS",NOTICIAS| EURO NEWS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/779
+#EXTINF:-1 tvg-id="MX | Foro TV *HD" tvg-name="NOTICIAS| FORO TV" tvg-logo="http://tv.naturalplus.live:25461/images/272a443a60a05cae392eb188795c249a.png" group-title="NOTICIAS",NOTICIAS| FORO TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/781
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS| RT NOTICIAS" tvg-logo="http://tv.naturalplus.live:25461/images/f7a90411b6c882746ffeb67211ae31a9.png" group-title="NOTICIAS",NOTICIAS| RT NOTICIAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/780
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS| RTVE NOTICIAS" tvg-logo="http://tv.naturalplus.live:25461/images/ce4e54bda49128c800313c4615147c72.png" group-title="NOTICIAS",NOTICIAS| RTVE NOTICIAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/782
+#EXTINF:-1 tvg-id="ANIMAL PLANET *HD" tvg-name="CULT| ANIMAL PLANET" tvg-logo="http://tv.naturalplus.live:25461/images/1e4483e833025ac10e6184e75cb2d19d.png" group-title="CULTURAS & EDUCATIVOS",CULT| ANIMAL PLANET
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/519
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS| FRANCE 24" tvg-logo="http://tv.naturalplus.live:25461/images/e34efc74980c01520e494d61ebafa613.png" group-title="NOTICIAS",NOTICIAS| FRANCE 24
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/777
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE LATINO" tvg-logo="http://tv.naturalplus.live:25461/images/eb930880c3e1b2eb73cafa0fac48cc48.png" group-title="CINE & SERIES",CINE| CINE LATINO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/206
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA CLARO" tvg-logo="http://tv.naturalplus.live:25461/images/4870f9d3a6299578edcc3e6c954baeba.png" group-title="CINE & SERIES",CINE| CINEMA CLARO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/204
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MULTIPREMIER" tvg-logo="http://tv.naturalplus.live:25461/images/19ad8cfebfc73379c8817c162763f874.png" group-title="CINE & SERIES",CINE| MULTIPREMIER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/241
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE" tvg-logo="http://tv.naturalplus.live:25461/images/29cd27d15f40d2e83e135eb423f1441d.png" group-title="CINE & SERIES",CINE| STARZ ENCORE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/254
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| CBS NFL" tvg-logo="http://tv.naturalplus.live:25461/images/3a989267899aeae5d75ac854d8323cef.png" group-title="DEPORTES/SPORTS",SPORTS| CBS NFL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1909
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PÁNICO" tvg-logo="http://tv.naturalplus.live:25461/images/a772c7dfaaaadb680fd6a1485856698d.png" group-title="CINE & SERIES",CINE| PÁNICO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/255
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY MOVIES" tvg-logo="http://logos.naturalplus.live/logotipos/SONYLOGOMORADO.png" group-title="CINE & SERIES",CINE| SONY MOVIES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/256
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| ESPN 2" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="DEPORTES/SPORTS",SPORTS| ESPN 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1915
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| ESPN" tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES/SPORTS",SPORTS| ESPN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1913
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| ESPN 3" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="DEPORTES/SPORTS",SPORTS| ESPN 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1916
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS|  FOX SPORTS 1" tvg-logo="http://tv.naturalplus.live:25461/images/6fe1600a38a5882cadb02bff0634772f.png" group-title="DEPORTES/SPORTS",SPORTS|  FOX SPORTS 1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1917
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS|  FOX SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="DEPORTES/SPORTS",SPORTS|  FOX SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1918
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS|  FOX SPORTS 3" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="DEPORTES/SPORTS",SPORTS|  FOX SPORTS 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1919
+#EXTINF:-1 tvg-id="" tvg-name="CINE| ZEE MUNDO" tvg-logo="http://logos.naturalplus.live/logotipos/ZEEMUNDOBOLLYWOOD.png" group-title="CINE & SERIES",CINE| ZEE MUNDO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/262
+#EXTINF:-1 tvg-id="AR | GARAGE *HD" tvg-name="CULT| GARAGETV" tvg-logo="http://tv.naturalplus.live:25461/images/842a116566a9461883980b9817711cef.png" group-title="CULTURAS & EDUCATIVOS",CULT| GARAGETV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/521
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS ECU" tvg-logo="http://tv.naturalplus.live:25461/images/c02a13c3a02cb254d535aa12517011d5.png" group-title="PACK FUTBOL",SPORTS| DIRECTV SPORTS ECU
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1168
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV HD" tvg-logo="http://tv.naturalplus.live:25461/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="PACK FUTBOL",EC| GOL TV HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1167
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV" tvg-logo="http://tv.naturalplus.live:25461/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="PACK FUTBOL",EC| GOL TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1166
+#EXTINF:-1 tvg-id="" tvg-name="EC| CANAL DEL FUTBOL" tvg-logo="http://tv.naturalplus.live:25461/images/6a7d59da895cfe76a823c2bf1b15ae56.png" group-title="PACK FUTBOL",EC| CANAL DEL FUTBOL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1165
+#EXTINF:-1 tvg-id="CA | BBC WORLD NEWS" tvg-name="USA| GALAVISION" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1764
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION SAN FRANCISCO" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION SAN FRANCISCO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1765
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION ATLANTA" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION ATLANTA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1766
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION  CLEVELAND" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION  CLEVELAND
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1767
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION CHICAGO" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION CHICAGO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1768
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION MIAMI" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION MIAMI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1769
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION PHOENIX" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION PHOENIX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1770
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION PHILADELPHIA" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION PHILADELPHIA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1771
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION NEW YORK" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION NEW YORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1772
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION HOUSTON" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION HOUSTON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1773
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIVISION EAST" tvg-logo="http://tv.naturalplus.live:25461/images/87232e203bc49a88459d4d2f28d37d4d.png" group-title="ESTADOS UNIDOS",USA| UNIVISION EAST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1774
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS SANTA FE" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS SANTA FE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1775
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS SAN ANTONIO" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS SAN ANTONIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1776
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS FRESNO" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS FRESNO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1777
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS CHICAGO" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS CHICAGO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1778
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS RALEIGH" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS RALEIGH
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1779
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS SALT LAKE" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS SALT LAKE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1780
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS CHEVELANT" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS CHEVELANT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1781
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS SACRAMENTO" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS SACRAMENTO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1782
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS PHOENIX" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS PHOENIX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1783
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS HOUSTON" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS HOUSTON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1784
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS LAS" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS LAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1785
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS LAS VEGAS" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS LAS VEGAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1786
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS EAST" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS EAST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1787
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS AUSTIN" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS AUSTIN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1788
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION AUSTIN" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION AUSTIN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1789
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION CHICAGO" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION CHICAGO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1790
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS NEW YORK" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS NEW YORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1791
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION CHEVELAND" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION CHEVELAND
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1792
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION SANTA FE" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION SANTA FE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1793
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION LAS " tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION LAS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1794
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION ATLANTA" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION ATLANTA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1795
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION FRESNO" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION FRESNO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1796
+#EXTINF:-1 tvg-id="" tvg-name="USA| UNIMAS WEST" tvg-logo="http://tv.naturalplus.live:25461/images/bfa41b835763fd1310e30d4ea03db69f.png" group-title="ESTADOS UNIDOS",USA| UNIMAS WEST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1797
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION HOUSTON" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION HOUSTON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1798
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION LAS VEGAS" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION LAS VEGAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1799
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION LAS" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION LAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1800
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION MIAMI" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION MIAMI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1801
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION PHILADELPHIA" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION PHILADELPHIA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1802
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION NEW YORK" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION NEW YORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1803
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION SACRAMENTO" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION SACRAMENTO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1804
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION PHOENIX" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION PHOENIX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1805
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION SALT LAKE" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION SALT LAKE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1806
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION WEST" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION WEST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1807
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION SAN ANTONIO" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION SAN ANTONIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1808
+#EXTINF:-1 tvg-id="" tvg-name="USA| GALAVISION SAN FRANCISCO" tvg-logo="http://tv.naturalplus.live:25461/images/27b637e2602f6f4757bc0cd5d5d03e84.png" group-title="ESTADOS UNIDOS",USA| GALAVISION SAN FRANCISCO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1809
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA CORAZON" tvg-logo="http://tv.naturalplus.live:25461/images/6487db6217746e6fbf3bc6f94409ccd9.png" group-title="MEXICO",MX| AZTECA CORAZON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1351
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA MUNDO" tvg-logo="http://tv.naturalplus.live:25461/images/c69c783b76c4bfdc3ac646fbef3a723d.png" group-title="MEXICO",MX| AZTECA MUNDO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1352
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA CLIC" tvg-logo="http://tv.naturalplus.live:25461/images/1d394ccf215baac6b0b282972411c499.png" group-title="MEXICO",MX| AZTECA CLIC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1353
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA 7" tvg-logo="http://tv.naturalplus.live:25461/images/e47965de2852d6b7c244d1fb621a12e2.png" group-title="MEXICO",MX| AZTECA 7
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1354
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA +" tvg-logo="http://tv.naturalplus.live:25461/images/ec6ef10e04ccf0fcf6c31dd472f0ba11.png" group-title="MEXICO",MX| AZTECA +
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1355
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA CINEMA" tvg-logo="http://tv.naturalplus.live:25461/images/f9c091dce6aac3104b71bbdb73823081.png" group-title="MEXICO",MX| AZTECA CINEMA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1356
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA UNO" tvg-logo="http://tv.naturalplus.live:25461/images/1f9d20cd0e5ef880530e9d821ebb1921.png" group-title="MEXICO",MX| AZTECA UNO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1357
+#EXTINF:-1 tvg-id="" tvg-name="MX| ADRENALINA SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/d978a6f3c56acc65dd276bf40dbf555f.png" group-title="MEXICO",MX| ADRENALINA SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1359
+#EXTINF:-1 tvg-id="" tvg-name="MX| ADN 40" tvg-logo="http://tv.naturalplus.live:25461/images/a3afd164386a5340a36516b569d09ad1.png" group-title="MEXICO",MX| ADN 40
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1360
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL DE LAS ESTRELLAS" tvg-logo="http://tv.naturalplus.live:25461/images/b106f5c0816cd8600da2e1449def578a.png" group-title="MEXICO",MX| CANAL DE LAS ESTRELLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1361
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="http://tv.naturalplus.live:25461/images/17566bd84bf01ab2b8603fe6c5207cb0.png" group-title="MEXICO",MX| CANAL 5
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1362
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL ONCE" tvg-logo="http://tv.naturalplus.live:25461/images/4b530de2d54d853bec9a2dec6b3dff25.png" group-title="MEXICO",MX| CANAL ONCE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1363
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESTRELLA TV" tvg-logo="http://tv.naturalplus.live:25461/images/8044d51e6369f7d238f748d068f4b906.png" group-title="MEXICO",MX| ESTRELLA TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1364
+#EXTINF:-1 tvg-id="" tvg-name="MX| IMAGEN TV" tvg-logo="http://tv.naturalplus.live:25461/images/b5fc0e0aa250eea9e18a0490f90f752d.png" group-title="MEXICO",MX| IMAGEN TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1365
+#EXTINF:-1 tvg-id="" tvg-name="MX| MULTIMEDIOS CDMX" tvg-logo="http://tv.naturalplus.live:25461/images/3803057a7b9b860f32516a17291cf063.png" group-title="MEXICO",MX| MULTIMEDIOS CDMX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1367
+#EXTINF:-1 tvg-id="" tvg-name="MX| MILENIO" tvg-logo="http://tv.naturalplus.live:25461/images/0b29c93a4afd4bfd91864c2f305105d3.png" group-title="MEXICO",MX| MILENIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1368
+#EXTINF:-1 tvg-id="" tvg-name="MX| UNICABLE" tvg-logo="http://tv.naturalplus.live:25461/images/9925e083cc2e30e9bea8e3cbda332d7a.png" group-title="MEXICO",MX| UNICABLE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1369
+#EXTINF:-1 tvg-id="" tvg-name="MX| DISTRITO COMEDIA" tvg-logo="http://tv.naturalplus.live:25461/images/433765cf2a45436e92e03264219c040f.png" group-title="MEXICO",MX| DISTRITO COMEDIA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1378
+#EXTINF:-1 tvg-id="TNT SPORTS AR *FHD" tvg-name="ARG| TNT SPORTS SD" tvg-logo="http://tv.naturalplus.live:25461/images/fb4b8f7fb0852f57b8bfdc9e64af6a97.png" group-title="PACK FUTBOL",ARG| TNT SPORTS SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/858
+#EXTINF:-1 tvg-id="TNT SPORTS AR *FHD" tvg-name="ARG| TNT SPORTS HD" tvg-logo="http://tv.naturalplus.live:25461/images/fb4b8f7fb0852f57b8bfdc9e64af6a97.png" group-title="PACK FUTBOL",ARG| TNT SPORTS HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/859
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM *FHD" tvg-name="ARG| FOX SPORTS PREMIUM SD" tvg-logo="http://tv.naturalplus.live:25461/images/584d09ec6e316ecb93a54794d8c6fdab.png" group-title="PACK FUTBOL",ARG| FOX SPORTS PREMIUM SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/856
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM *FHD" tvg-name="ARG| FOX SPORTS PREMIUM HD" tvg-logo="http://tv.naturalplus.live:25461/images/584d09ec6e316ecb93a54794d8c6fdab.png" group-title="PACK FUTBOL",ARG| FOX SPORTS PREMIUM HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/857
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 1 SD" tvg-logo="http://tv.naturalplus.live:25461/images/6fe1600a38a5882cadb02bff0634772f.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 1 SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/870
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 1 HD" tvg-logo="http://tv.naturalplus.live:25461/images/6fe1600a38a5882cadb02bff0634772f.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 1 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/871
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 2 SD" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 2 SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/872
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 2 HD" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 2 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/873
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 3 SD" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 3 SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/874
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX SPORTS 3 HD" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="PACK FUTBOL",ARG| FOX SPORTS 3 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/875
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN " tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PACK FUTBOL",ARG| ESPN 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/876
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN  HD" tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PACK FUTBOL",ARG| ESPN  HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/877
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 2 SD" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PACK FUTBOL",ARG| ESPN 2 SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/878
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 2 HD" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PACK FUTBOL",ARG| ESPN 2 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/879
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 3 SD" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="PACK FUTBOL",ARG| ESPN 3 SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/880
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 3 HD" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="PACK FUTBOL",ARG| ESPN 3 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/881
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN EXTRA" tvg-logo="http://tv.naturalplus.live:25461/images/810503b3663c6d72840c2e565922ffc3.png" group-title="PACK FUTBOL",ARG| ESPN EXTRA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/889
+#EXTINF:-1 tvg-id="TyC SPORTS *HD" tvg-name="ARG| TYC SPORTS SD" tvg-logo="http://tv.naturalplus.live:25461/images/a0beab8b4ca7b31a6180c4bf5e511c24.png" group-title="PACK FUTBOL",ARG| TYC SPORTS SD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/868
+#EXTINF:-1 tvg-id="TyC SPORTS *HD" tvg-name="ARG| TYC SPORTS HD" tvg-logo="http://tv.naturalplus.live:25461/images/a0beab8b4ca7b31a6180c4bf5e511c24.png" group-title="PACK FUTBOL",ARG| TYC SPORTS HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/869
+#EXTINF:-1 tvg-id="AR | DEPORTV *HD" tvg-name="ARG| DEPOR TV" tvg-logo="http://tv.naturalplus.live:25461/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="PACK FUTBOL",ARG| DEPOR TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/851
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/8c2d1795330cbbee18f563235ec25a07.png" group-title="PACK FUTBOL",CL| TNT SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/962
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS 3" tvg-logo="http://tv.naturalplus.live:25461/images/281d3866bd04dfafc651dd8542dff3ab.png" group-title="PACK FUTBOL",CL| TNT SPORTS 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/963
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS HD" tvg-logo="http://tv.naturalplus.live:25461/images/21acbaffcc23dae86b9bbf22f9589cda.png" group-title="PACK FUTBOL",CL| TNT SPORTS HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/964
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS " tvg-logo="http://tv.naturalplus.live:25461/images/21acbaffcc23dae86b9bbf22f9589cda.png" group-title="PACK FUTBOL",CL| TNT SPORTS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/965
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS 2 HD" tvg-logo="http://tv.naturalplus.live:25461/images/8c2d1795330cbbee18f563235ec25a07.png" group-title="PACK FUTBOL",CL| TNT SPORTS 2 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/966
+#EXTINF:-1 tvg-id="" tvg-name="CL| TNT SPORTS 3 HD" tvg-logo="http://tv.naturalplus.live:25461/images/281d3866bd04dfafc651dd8542dff3ab.png" group-title="PACK FUTBOL",CL| TNT SPORTS 3 HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/967
+#EXTINF:-1 tvg-id="" tvg-name="CL| CDO" tvg-logo="http://tv.naturalplus.live:25461/images/ec41b42197a2364c65d81207995c1df6.png" group-title="PACK FUTBOL",CL| CDO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/961
+#EXTINF:-1 tvg-id="" tvg-name="CL| ESTADIO TNT SPORTS" tvg-logo="http://logos.naturalplus.live/logotipos/TNTSPORTESTADIOCHILE.png" group-title="PACK FUTBOL",CL| ESTADIO TNT SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/972
+#EXTINF:-1 tvg-id="WINSPORTS *HQ" tvg-name="COL| WIN SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/98ae2d87d0c3bf8117ae429626a46936.png" group-title="PACK FUTBOL",COL| WIN SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1017
+#EXTINF:-1 tvg-id="WINSPORTS *HD" tvg-name="COL| WIN SPORTS HD" tvg-logo="http://tv.naturalplus.live:25461/images/98ae2d87d0c3bf8117ae429626a46936.png" group-title="PACK FUTBOL",COL| WIN SPORTS HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1018
+#EXTINF:-1 tvg-id="WINSPORTS PLUS *HD" tvg-name="COL| WIN SPORTS +" tvg-logo="http://tv.naturalplus.live:25461/images/3f1f1ede47d54e387859a2fc2518914c.png" group-title="PACK FUTBOL",COL| WIN SPORTS +
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1019
+#EXTINF:-1 tvg-id="WINSPORTS PLUS *HD" tvg-name="COL| WIN SPORTS + HD" tvg-logo="http://tv.naturalplus.live:25461/images/3f1f1ede47d54e387859a2fc2518914c.png" group-title="PACK FUTBOL",COL| WIN SPORTS + HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1020
+#EXTINF:-1 tvg-id="WINSPORTS *FHD" tvg-name="COL| WIN SPORTS FHD" tvg-logo="http://tv.naturalplus.live:25461/images/98ae2d87d0c3bf8117ae429626a46936.png" group-title="PACK FUTBOL",COL| WIN SPORTS FHD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1027
+#EXTINF:-1 tvg-id="WINSPORTS PLUS *FHD" tvg-name="COL| WIN SPORTS + FHD" tvg-logo="http://tv.naturalplus.live:25461/images/3f1f1ede47d54e387859a2fc2518914c.png" group-title="PACK FUTBOL",COL| WIN SPORTS + FHD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1028
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN" tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PACK FUTBOL",COL| ESPN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1021
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 2" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PACK FUTBOL",COL| ESPN 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1022
+#EXTINF:-1 tvg-id="" tvg-name="COL| ESPN 3" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="PACK FUTBOL",COL| ESPN 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1023
+#EXTINF:-1 tvg-id="FOX SPORTS 1 CO *HD" tvg-name="COL| FOX SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/6fe1600a38a5882cadb02bff0634772f.png" group-title="PACK FUTBOL",COL| FOX SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1024
+#EXTINF:-1 tvg-id="" tvg-name="COL| FOX SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="PACK FUTBOL",COL| FOX SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1025
+#EXTINF:-1 tvg-id="" tvg-name="COL| FOX SPORTS 3" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="PACK FUTBOL",COL| FOX SPORTS 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1026
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESPN EXTRA" tvg-logo="http://tv.naturalplus.live:25461/images/810503b3663c6d72840c2e565922ffc3.png" group-title="PACK FUTBOL MEXICANO",MX| ESPN EXTRA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1373
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESPN 3" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="PACK FUTBOL MEXICANO",MX| ESPN 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1372
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESPN 2" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PACK FUTBOL MEXICANO",MX| ESPN 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1371
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESPN " tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PACK FUTBOL MEXICANO",MX| ESPN 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1370
+#EXTINF:-1 tvg-id="" tvg-name="MX| FOX SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="PACK FUTBOL MEXICANO",MX| FOX SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1375
+#EXTINF:-1 tvg-id="" tvg-name="MX| FOX SPORTS 1" tvg-logo="http://tv.naturalplus.live:25461/images/6fe1600a38a5882cadb02bff0634772f.png" group-title="PACK FUTBOL MEXICANO",MX| FOX SPORTS 1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1374
+#EXTINF:-1 tvg-id="" tvg-name="MX| FOX SPORTS 3" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="PACK FUTBOL MEXICANO",MX| FOX SPORTS 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1376
+#EXTINF:-1 tvg-id="" tvg-name="MX| AFFIZIONADOS" tvg-logo="http://tv.naturalplus.live:25461/images/b1b06339f8136da941c63030b6c87def.png" group-title="PACK FUTBOL MEXICANO",MX| AFFIZIONADOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1358
+#EXTINF:-1 tvg-id="" tvg-name="PE| ESPN  " tvg-logo="http://tv.naturalplus.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PACK FUTBOL",PE| ESPN  
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1536
+#EXTINF:-1 tvg-id="" tvg-name="PE| ESPN 2" tvg-logo="http://tv.naturalplus.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PACK FUTBOL",PE| ESPN 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1537
+#EXTINF:-1 tvg-id="" tvg-name="PE| ESPN 3" tvg-logo="http://tv.naturalplus.live:25461/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="PACK FUTBOL",PE| ESPN 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1538
+#EXTINF:-1 tvg-id="FOX SPORTS 1 PE *FHD" tvg-name="PE| ESPN 4" tvg-logo="http://logos.naturalplus.live/logotipos/ESPN4.png" group-title="PACK FUTBOL",PE| ESPN 4
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1539
+#EXTINF:-1 tvg-id="" tvg-name="PE| FOX SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/b268b1aeec8981ea74acd8851e5feb92.png" group-title="PACK FUTBOL",PE| FOX SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1540
+#EXTINF:-1 tvg-id="FOX SPORTS 3 PE *HD" tvg-name="PE| FOX SPORTS 3" tvg-logo="http://tv.naturalplus.live:25461/images/c372de9c52ad3489a20563ceca0ffb48.png" group-title="PACK FUTBOL",PE| FOX SPORTS 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1541
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS PE" tvg-logo="http://tv.naturalplus.live:25461/images/c02a13c3a02cb254d535aa12517011d5.png" group-title="PACK FUTBOL",SPORTS| DIRECTV SPORTS PE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1882
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS PPV" tvg-logo="http://tv.naturalplus.live:25461/images/c02a13c3a02cb254d535aa12517011d5.png" group-title="PACK FUTBOL",SPORTS| DIRECTV SPORTS PPV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1911
+#EXTINF:-1 tvg-id="HBO *HD" tvg-name="CINE| HBO" tvg-logo="http://tv.naturalplus.live:25461/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CINE & SERIES",CINE| HBO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/231
+#EXTINF:-1 tvg-id="HBO 2 *HD" tvg-name="CINE| HBO 2" tvg-logo="http://tv.naturalplus.live:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CINE & SERIES",CINE| HBO 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/232
+#EXTINF:-1 tvg-id="HBO + *HD" tvg-name="CINE| HBO +" tvg-logo="http://tv.naturalplus.live:25461/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CINE & SERIES",CINE| HBO +
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/233
+#EXTINF:-1 tvg-id="HBO SIGNATURE *HD" tvg-name="CINE| HBO SIGNATURE" tvg-logo="http://tv.naturalplus.live:25461/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="CINE & SERIES",CINE| HBO SIGNATURE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/234
+#EXTINF:-1 tvg-id="HBO FAMILY *HD" tvg-name="CINE| HBO FAMILY" tvg-logo="http://tv.naturalplus.live:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE & SERIES",CINE| HBO FAMILY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/235
+#EXTINF:-1 tvg-id="HBO MUNDI *HD" tvg-name="CINE| HBO MUNDI" tvg-logo="http://tv.naturalplus.live:25461/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CINE & SERIES",CINE| HBO MUNDI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/236
+#EXTINF:-1 tvg-id="HBO XTREME *HD" tvg-name="CINE| HBO XTREME" tvg-logo="http://tv.naturalplus.live:25461/images/54bab6c6ad3085d279940d21c7c9ec61.png" group-title="CINE & SERIES",CINE| HBO XTREME
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/237
+#EXTINF:-1 tvg-id="HBO POP *HD" tvg-name="CINE| HBO POP" tvg-logo="http://tv.naturalplus.live:25461/images/ad7c604a311bc79f9110eaa409f12719.png" group-title="CINE & SERIES",CINE| HBO POP
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/238
+#EXTINF:-1 tvg-id="HBO 2 *HD" tvg-name="CINE HD| HBO 2" tvg-logo="http://tv.naturalplus.live:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CINE & SERIES HD",CINE HD| HBO 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/332
+#EXTINF:-1 tvg-id="HBO *HD" tvg-name="CINE HD| HBO" tvg-logo="http://tv.naturalplus.live:25461/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CINE & SERIES HD",CINE HD| HBO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/331
+#EXTINF:-1 tvg-id="HBO + *HD" tvg-name="CINE HD| HBO +" tvg-logo="http://tv.naturalplus.live:25461/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CINE & SERIES HD",CINE HD| HBO +
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/333
+#EXTINF:-1 tvg-id="HBO SIGNATURE *HD" tvg-name="CINE HD| HBO SIGNATURE" tvg-logo="http://tv.naturalplus.live:25461/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="CINE & SERIES HD",CINE HD| HBO SIGNATURE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/334
+#EXTINF:-1 tvg-id="HBO FAMILY *HD" tvg-name="CINE HD| HBO FAMILY" tvg-logo="http://tv.naturalplus.live:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE & SERIES HD",CINE HD| HBO FAMILY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/335
+#EXTINF:-1 tvg-id="HBO MUNDI *HD" tvg-name="CINE HD| HBO MUNDI" tvg-logo="http://tv.naturalplus.live:25461/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CINE & SERIES HD",CINE HD| HBO MUNDI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/336
+#EXTINF:-1 tvg-id="HBO XTREME *HD" tvg-name="CINE HD| HBO XTREME" tvg-logo="http://tv.naturalplus.live:25461/images/54bab6c6ad3085d279940d21c7c9ec61.png" group-title="CINE & SERIES HD",CINE HD| HBO XTREME
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/337
+#EXTINF:-1 tvg-id="HBO POP *HD" tvg-name="CINE HD| HBO POP" tvg-logo="http://tv.naturalplus.live:25461/images/ad7c604a311bc79f9110eaa409f12719.png" group-title="CINE & SERIES HD",CINE HD| HBO POP
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/338
+#EXTINF:-1 tvg-id="AR | ZOOMOO *HD" tvg-name="KIDS| ZOOMOO" tvg-logo="http://tv.naturalplus.live:25461/images/347c530260cf813a4f716add71d72541.png" group-title="INFANTILES",KIDS| ZOOMOO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/651
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK MUSIC" tvg-logo="http://tv.naturalplus.live:25461/images/675d5bc11f79b4761671d9eae34ff788.png" group-title="INFANTILES",KIDS| NICK MUSIC
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/652
+#EXTINF:-1 tvg-id="NICKTOONS *HD" tvg-name="KIDS| NICKTOONS" tvg-logo="http://tv.naturalplus.live:25461/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="INFANTILES",KIDS| NICKTOONS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/653
+#EXTINF:-1 tvg-id="NICK JR *HD" tvg-name="KIDS| NICK JR" tvg-logo="http://tv.naturalplus.live:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="INFANTILES",KIDS| NICK JR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/654
+#EXTINF:-1 tvg-id="USA | Nick" tvg-name="KIDS| NICK" tvg-logo="http://tv.naturalplus.live:25461/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="INFANTILES",KIDS| NICK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/655
+#EXTINF:-1 tvg-id="NICK 2 *HD" tvg-name="KIDS| NICK 2" tvg-logo="http://tv.naturalplus.live:25461/images/7a34bd73aacf0d671fa850c24bf25c4d.png" group-title="INFANTILES",KIDS| NICK 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/656
+#EXTINF:-1 tvg-id="NICKELODEON *HD" tvg-name="KIDS| NICKELODEON" tvg-logo="http://tv.naturalplus.live:25461/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="INFANTILES",KIDS| NICKELODEON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/657
+#EXTINF:-1 tvg-id="DISNEY XD *HD" tvg-name="KIDS| DISNEY XD" tvg-logo="http://tv.naturalplus.live:25461/images/45d885c5863ede023a0685926f9c7963.png" group-title="INFANTILES",KIDS| DISNEY XD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/659
+#EXTINF:-1 tvg-id="DISCOVERY KIDS *HD" tvg-name="KIDS| DISCOVERY KIDS" tvg-logo="http://tv.naturalplus.live:25461/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="INFANTILES",KIDS| DISCOVERY KIDS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/661
+#EXTINF:-1 tvg-id="NAT GEO KIDS *HD" tvg-name="KIDS| NATGEO KIDS" tvg-logo="http://tv.naturalplus.live:25461/images/fd6332a5c647a54006e0184ca7e43be6.png" group-title="INFANTILES",KIDS| NATGEO KIDS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/662
+#EXTINF:-1 tvg-id="DISNEY CHANNEL *HD" tvg-name="KIDS| DISNEY CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/41981c53bb8e17386acd314b047c43da.png" group-title="INFANTILES",KIDS| DISNEY CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/658
+#EXTINF:-1 tvg-id="DISNEY JR *HD" tvg-name="KIDS| DISNEY JR" tvg-logo="http://tv.naturalplus.live:25461/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="INFANTILES",KIDS| DISNEY JR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/660
+#EXTINF:-1 tvg-id="CARTOON NETWORK *HD" tvg-name="KIDS| CARTOON NETWORK" tvg-logo="http://tv.naturalplus.live:25461/images/46e25e123679ab1c022b431dc86ee0a2.png" group-title="INFANTILES",KIDS| CARTOON NETWORK
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/663
+#EXTINF:-1 tvg-id="TOONCAST *HD" tvg-name="KIDS| TOONCAST" tvg-logo="http://tv.naturalplus.live:25461/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="INFANTILES",KIDS| TOONCAST
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/665
+#EXTINF:-1 tvg-id="BABY TV *HD" tvg-name="KIDS| BABY TV" tvg-logo="http://tv.naturalplus.live:25461/images/6848d756da66e55b42f79c0728e351ad.png" group-title="INFANTILES",KIDS| BABY TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/666
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| PEQUE RADIO" tvg-logo="http://tv.naturalplus.live:25461/images/eb87b5ef3698955a156910988dc306a0.png" group-title="INFANTILES",KIDS| PEQUE RADIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/667
+#EXTINF:-1 tvg-id="BOOMERANG *HD" tvg-name="KIDS| BOOMERANG" tvg-logo="http://tv.naturalplus.live:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="INFANTILES",KIDS| BOOMERANG
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/664
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TELENOSTALGIA" tvg-logo="http://tv.naturalplus.live:25461/images/91a9ab62fe85c6040fe944e3610f58f0.png" group-title="MUSICA",MUSIC| TELENOSTALGIA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/751
+#EXTINF:-1 tvg-id="MU | HTV *HQ" tvg-name="MUSIC| HTV" tvg-logo="http://tv.naturalplus.live:25461/images/5da159a854bd53a70ed78ad07367cce1.png" group-title="MUSICA",MUSIC| HTV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/752
+#EXTINF:-1 tvg-id="USA | MTV" tvg-name="MUSIC| MTV" tvg-logo="http://tv.naturalplus.live:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",MUSIC| MTV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/753
+#EXTINF:-1 tvg-id="USA | MTV Live" tvg-name="MUSIC| MTV LIVE" tvg-logo="http://tv.naturalplus.live:25461/images/b7951f9081fefcff7b2f917eeb0c6aac.png" group-title="MUSICA",MUSIC| MTV LIVE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/754
+#EXTINF:-1 tvg-id="MU | MTV HITS *HD" tvg-name="MUSIC| MTV HITS" tvg-logo="http://tv.naturalplus.live:25461/images/dfbb5449cf9d4a78e9b1fe3fda609614.png" group-title="MUSICA",MUSIC| MTV HITS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/755
+#EXTINF:-1 tvg-id="MU | BANDAMAX *HQ" tvg-name="MUSIC| BANDA MAX" tvg-logo="http://tv.naturalplus.live:25461/images/967e1375546a25085abedd96e2601bec.png" group-title="MUSICA",MUSIC| BANDA MAX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/756
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| AMORDISCOS TV" tvg-logo="http://tv.naturalplus.live:25461/images/07aee110ac636ac92edc986bc47b6814.png" group-title="MUSICA",MUSIC| AMORDISCOS TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/757
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TELEHIT" tvg-logo="http://tv.naturalplus.live:25461/images/582e850f4302644888a03829c8e8fd1e.png" group-title="MUSICA",MUSIC| TELEHIT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/759
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| CANTINAZO" tvg-logo="http://logos.naturalplus.live/logotipos/CANTINAZOCOLOMBIA.png" group-title="MUSICA",MUSIC| CANTINAZO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/760
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| LA KALLE" tvg-logo="http://logos.naturalplus.live/logotipos/LAKALLECOLOMBIA.png" group-title="MUSICA",MUSIC| LA KALLE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/761
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TELE RITMO" tvg-logo="http://tv.naturalplus.live:25461/images/71ff61f58a00acbbc19542dc75543571.png" group-title="MUSICA",MUSIC| TELE RITMO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/758
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| RUMBA TV" tvg-logo="http://logos.naturalplus.live/logotipos/RUMBATV.png" group-title="MUSICA",MUSIC| RUMBA TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/762
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TOP LATINO" tvg-logo="http://logos.naturalplus.live/logotipos/TOPLATINO.png" group-title="MUSICA",MUSIC| TOP LATINO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/764
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| FUEGO TV" tvg-logo="http://logos.naturalplus.live/logotipos/FUEGOTV.png" group-title="MUSICA",MUSIC| FUEGO TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/763
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS| KANAL D" tvg-logo="http://tv.naturalplus.live:25461/images/2dea5d910f07193c9f1e9d10d64663ab.png" group-title="NOVELAS",NOVELAS| KANAL D
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/801
+#EXTINF:-1 tvg-id="Telemundo *HD" tvg-name="NOVELAS| TELEMUNDO" tvg-logo="http://tv.naturalplus.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="NOVELAS",NOVELAS| TELEMUNDO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/802
+#EXTINF:-1 tvg-id="Telemundo Internacional | op2" tvg-name="NOVELAS| TELEMUNDO INTERNACIONAL" tvg-logo="http://tv.naturalplus.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="NOVELAS",NOVELAS| TELEMUNDO INTERNACIONAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/803
+#EXTINF:-1 tvg-id="Telemundo Miami" tvg-name="NOVELAS| TELEMUNDO MIAMI" tvg-logo="http://tv.naturalplus.live:25461/images/e2ae2e14e89086178e6bf15e076cbc68.png" group-title="NOVELAS",NOVELAS| TELEMUNDO MIAMI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/804
+#EXTINF:-1 tvg-id="Telemundo San francisco" tvg-name="NOVELAS| TELEMUNDO SAN FRANCISCO" tvg-logo="http://tv.naturalplus.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="NOVELAS",NOVELAS| TELEMUNDO SAN FRANCISCO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/805
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="NOVELAS| PASIONES" tvg-logo="http://tv.naturalplus.live:25461/images/0695461e59b8ce9914b07afa9911a2c2.png" group-title="NOVELAS",NOVELAS| PASIONES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/806
+#EXTINF:-1 tvg-id="MX | AZ Corazon HD" tvg-name="NOVELAS| AZ CORAZON" tvg-logo="http://tv.naturalplus.live:25461/images/6487db6217746e6fbf3bc6f94409ccd9.png" group-title="NOVELAS",NOVELAS| AZ CORAZON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/807
+#EXTINF:-1 tvg-id="MX | Telenovelas" tvg-name="NOVELAS| TL NOVELAS" tvg-logo="http://tv.naturalplus.live:25461/images/173f6557c6a62af1f4e3715369c89120.png" group-title="NOVELAS",NOVELAS| TL NOVELAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/808
+#EXTINF:-1 tvg-id="CO | RCN NOVELAS *HD" tvg-name="NOVELAS| RCN NOVELAS" tvg-logo="http://tv.naturalplus.live:25461/images/d5fe7da0cade70d4925ce52cdf7b02b4.png" group-title="NOVELAS",NOVELAS| RCN NOVELAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/809
+#EXTINF:-1 tvg-id="MX | Telenovelas" tvg-name="NOVELAS| TLNOVELAS UNIVISION" tvg-logo="http://tv.naturalplus.live:25461/images/081aae7f9d900669c3b6f5b37212805e.png" group-title="NOVELAS",NOVELAS| TLNOVELAS UNIVISION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/810
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| NUEVO TIEMPO" tvg-logo="http://tv.naturalplus.live:25461/images/3605990a39a28bbee1c80ccd76669bbb.png" group-title="CANALES CRISTIANOS",RELIGION| NUEVO TIEMPO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/826
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| ESPERANZA TV" tvg-logo="http://tv.naturalplus.live:25461/images/cfc2e5bb5d0a5c31da87813487247358.png" group-title="CANALES CRISTIANOS",RELIGION| ESPERANZA TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/827
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| 3BVN" tvg-logo="http://tv.naturalplus.live:25461/images/baa2776ade7db6ead7b39353609c3677.png" group-title="CANALES CRISTIANOS",RELIGION| 3BVN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/828
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| MUSICA CRISTIANA" tvg-logo="http://tv.naturalplus.live:25461/images/67b1baeac3a4e51209128bdaba7da254.png" group-title="CANALES CRISTIANOS",RELIGION| MUSICA CRISTIANA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/829
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| ADORACION(Vineyard Worship)" tvg-logo="http://tv.naturalplus.live:25461/images/8fd730953b119bdf0e8e44c0d96cd116.png" group-title="CANALES CRISTIANOS",RELIGION| ADORACION(Vineyard Worship)
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/830
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| REVERE" tvg-logo="http://tv.naturalplus.live:25461/images/a570074af9579ed0928bfb38b6ef88d9.png" group-title="CANALES CRISTIANOS",RELIGION| REVERE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/831
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| GLOBAL PRAYER" tvg-logo="http://tv.naturalplus.live:25461/images/56384b0f5d9f0a159e544a7c0194c0ec.png" group-title="CANALES CRISTIANOS",RELIGION| GLOBAL PRAYER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/832
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| ENLACE" tvg-logo="http://tv.naturalplus.live:25461/images/1269a1325b298ac38dd9e5d1e894b4ed.png" group-title="CANALES CRISTIANOS",RELIGION| ENLACE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/833
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION| CRISTOVISION" tvg-logo="http://tv.naturalplus.live:25461/images/1317d89da631f411ab89031ff5de905e.png" group-title="CANALES CRISTIANOS",RELIGION| CRISTOVISION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/834
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DAZN 4" tvg-logo="http://tv.naturalplus.live:25461/images/19a75bbc990e230a471e9a7e9a0fa1c1.png" group-title="DEPORTES/SPORTS",SPORTS| DAZN 4
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1901
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DAZN 2" tvg-logo="http://tv.naturalplus.live:25461/images/19a75bbc990e230a471e9a7e9a0fa1c1.png" group-title="DEPORTES/SPORTS",SPORTS| DAZN 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1899
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DAZN 1" tvg-logo="http://tv.naturalplus.live:25461/images/19a75bbc990e230a471e9a7e9a0fa1c1.png" group-title="DEPORTES/SPORTS",SPORTS| DAZN 1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1898
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| LIGA TV BAR" tvg-logo="http://tv.naturalplus.live:25461/images/fef37a5c120f678c283b05a347a9d3f1.png" group-title="DEPORTES/SPORTS",SPORTS| LIGA TV BAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1889
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| EURO SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/502a9991fd28919c0dc649bf3b0c41d2.png" group-title="DEPORTES/SPORTS",SPORTS| EURO SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1888
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MLB" tvg-logo="http://tv.naturalplus.live:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="DEPORTES/SPORTS",SPORTS| MLB
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1885
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DAZN 3" tvg-logo="http://tv.naturalplus.live:25461/images/19a75bbc990e230a471e9a7e9a0fa1c1.png" group-title="DEPORTES/SPORTS",SPORTS| DAZN 3
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1900
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| EURO SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/47a3eff0dda25db478faf2837f8a3d01.png" group-title="DEPORTES/SPORTS",SPORTS| EURO SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1887
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| NFL" tvg-logo="http://tv.naturalplus.live:25461/images/b7ef17673fdef90f593a9780828d42ef.png" group-title="DEPORTES/SPORTS",SPORTS| NFL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1884
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS +" tvg-logo="http://tv.naturalplus.live:25461/images/55de292ea4c5b55f3d64bbf73841afa3.png" group-title="DEPORTES/SPORTS",SPORTS| DIRECTV SPORTS +
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1881
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS 2" tvg-logo="http://tv.naturalplus.live:25461/images/4907fe4582f465f8ef13ec7a8c6b4bbe.png" group-title="DEPORTES/SPORTS",SPORTS| DIRECTV SPORTS 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1880
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DIRECTV SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/c02a13c3a02cb254d535aa12517011d5.png" group-title="DEPORTES/SPORTS",SPORTS| DIRECTV SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1879
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| UFC FIGHT PASS" tvg-logo="http://tv.naturalplus.live:25461/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="DEPORTES/SPORTS",SPORTS| UFC FIGHT PASS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1878
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TVG" tvg-logo="http://tv.naturalplus.live:25461/images/1d7a18a4d5e0b52e681d77f74535acf8.png" group-title="DEPORTES/SPORTS",SPORTS| TVG
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1877
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| SKY SPORT 2" tvg-logo="http://tv.naturalplus.live:25461/images/3a1d78ff26323b399433d5099e32d84a.png" group-title="DEPORTES/SPORTS",SPORTS| SKY SPORT 2
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1876
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| SKY SPORT" tvg-logo="http://tv.naturalplus.live:25461/images/ee3f2a582fbebc915fb15a4da46ee42b.png" group-title="DEPORTES/SPORTS",SPORTS| SKY SPORT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1875
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TENNIS CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/d173371d42d6488d6a78351996addc60.png" group-title="DEPORTES/SPORTS",SPORTS| TENNIS CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1874
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TVC DEPORTES" tvg-logo="http://tv.naturalplus.live:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="DEPORTES/SPORTS",SPORTS| TVC DEPORTES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1873
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| NBA" tvg-logo="http://tv.naturalplus.live:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="DEPORTES/SPORTS",SPORTS| NBA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1871
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| DAZN F1" tvg-logo="http://tv.naturalplus.live:25461/images/19a75bbc990e230a471e9a7e9a0fa1c1.png" group-title="DEPORTES/SPORTS",SPORTS| DAZN F1
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1870
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| M LIGA DE CAMPEONES" tvg-logo="http://tv.naturalplus.live:25461/images/ef8ee5524a27926c8439a623c5df0e23.png" group-title="DEPORTES/SPORTS",SPORTS| M LIGA DE CAMPEONES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1869
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MOVISTAR LA LIGA" tvg-logo="http://tv.naturalplus.live:25461/images/7704b03abcd31282a57b2bf204bc5190.png" group-title="DEPORTES/SPORTS",SPORTS| MOVISTAR LA LIGA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1868
+#EXTINF:-1 tvg-id="CLARO SPORTS *HD" tvg-name="SPORTS| CLARO SPORTS LATAM" tvg-logo="http://tv.naturalplus.live:25461/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="DEPORTES/SPORTS",SPORTS| CLARO SPORTS LATAM
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1867
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| TIGO SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES/SPORTS",SPORTS| TIGO SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1866
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| BARCA TV" tvg-logo="http://tv.naturalplus.live:25461/images/40f5143a42bf4f1bdf77664a7be4a59e.png" group-title="DEPORTES/SPORTS",SPORTS| BARCA TV
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1865
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| REAL MADRID" tvg-logo="http://tv.naturalplus.live:25461/images/e8c522a4c9bdc5ea1f7a0483d965e196.png" group-title="DEPORTES/SPORTS",SPORTS| REAL MADRID
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1864
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| VAMOS SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="DEPORTES/SPORTS",SPORTS| VAMOS SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1863
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| BEIN SPORT Ñ" tvg-logo="http://tv.naturalplus.live:25461/images/cb815975a107f36c2d84f7ce4b81f04c.png" group-title="DEPORTES/SPORTS",SPORTS| BEIN SPORT Ñ
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1862
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| BEIN SPORTS" tvg-logo="http://tv.naturalplus.live:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="DEPORTES/SPORTS",SPORTS| BEIN SPORTS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1861
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| GOLF CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/21b6877fb1086190fbb91f999a5a8e18.png" group-title="DEPORTES/SPORTS",SPORTS| GOLF CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1860
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS|  M.TOROS" tvg-logo="http://tv.naturalplus.live:25461/images/bbf4b8810e1001939bdf62cc093581b1.png" group-title="DEPORTES/SPORTS",SPORTS|  M.TOROS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1859
+#EXTINF:-1 tvg-id="" tvg-name="MX| TUDN" tvg-logo="http://tv.naturalplus.live:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="PACK FUTBOL MEXICANO",MX| TUDN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1377
+#EXTINF:-1 tvg-id="" tvg-name="USA| TUDN" tvg-logo="http://tv.naturalplus.live:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="PACK FUTBOL MEXICANO",USA| TUDN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1755
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| ESPN 4" tvg-logo="http://logos.naturalplus.live/logotipos/ESPN4.png" group-title="DEPORTES/SPORTS",SPORTS| ESPN 4
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1912
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| ESPN EXTRA" tvg-logo="http://tv.naturalplus.live:25461/images/810503b3663c6d72840c2e565922ffc3.png" group-title="DEPORTES/SPORTS",SPORTS| ESPN EXTRA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1922
+#EXTINF:-1 tvg-id="FOX LIFE *HD" tvg-name="CINE| STAR LIFE" tvg-logo="http://tv.naturalplus.live:25461/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="CINE & SERIES",CINE| STAR LIFE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/216
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE| UNIVERSAL CRIMEN" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCRIME.png" group-title="CINE & SERIES",CINE| UNIVERSAL CRIMEN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/215
+#EXTINF:-1 tvg-id="ES | Fox Channel HD" tvg-name="CINE| STAR CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/5b57aa5bbca91e2aae7f3c476281334a.png" group-title="CINE & SERIES",CINE| STAR CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/217
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE| UNIVERSAL CINEMA" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCINEMA.png" group-title="CINE & SERIES",CINE| UNIVERSAL CINEMA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/218
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE| UNIVERSAL COMEDY" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCOMEDY.png" group-title="CINE & SERIES",CINE| UNIVERSAL COMEDY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/220
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE| UNIVERSAL REALITY" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALREALITY.png" group-title="CINE & SERIES",CINE| UNIVERSAL REALITY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/221
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE| UNIVERSALPREMIERE" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALPREMIERE.png" group-title="CINE & SERIES",CINE| UNIVERSALPREMIERE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/222
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE HD| UNIVERSAL CRIMEN" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCRIME.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSAL CRIMEN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/315
+#EXTINF:-1 tvg-id="FOX LIFE *HD" tvg-name="CINE HD| STAR LIFE" tvg-logo="http://tv.naturalplus.live:25461/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="CINE & SERIES HD",CINE HD| STAR LIFE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/316
+#EXTINF:-1 tvg-id="ES | Fox Channel HD" tvg-name="CINE HD| STAR CHANNEL" tvg-logo="http://tv.naturalplus.live:25461/images/5b57aa5bbca91e2aae7f3c476281334a.png" group-title="CINE & SERIES HD",CINE HD| STAR CHANNEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/317
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE HD| UNIVERSAL CINEMA" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCINEMA.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSAL CINEMA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/318
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE HD| UNIVERSAL COMEDY" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALCOMEDY.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSAL COMEDY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/320
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE HD| UNIVERSAL REALITY" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALREALITY.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSAL REALITY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/321
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CINE HD| UNIVERSALPREMIERE" tvg-logo="http://logos.naturalplus.live/logotipos/UNIVERSALPREMIERE.png" group-title="CINE & SERIES HD",CINE HD| UNIVERSALPREMIERE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/322
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES *HD" tvg-name="PE| MOVISTAR DEPORTES" tvg-logo="http://tv.naturalplus.live:25461/images/ffc59813ed5bd1badb5f54c15bbbb40a.png" group-title="PACK FUTBOL",PE| MOVISTAR DEPORTES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1531
+#EXTINF:-1 tvg-id="GOL PERU *HD" tvg-name="PE| GOL PERU" tvg-logo="http://tv.naturalplus.live:25461/images/1aefb578873677fa3153276d80d3fa0c.png" group-title="PACK FUTBOL",PE| GOL PERU
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1534
+#EXTINF:-1 tvg-id="GOL PERU *FHD op2" tvg-name="PE| GOL PERU HD" tvg-logo="http://tv.naturalplus.live:25461/images/1aefb578873677fa3153276d80d3fa0c.png" group-title="PACK FUTBOL",PE| GOL PERU HD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/1535
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL GT" tvg-logo="http://tv.naturalplus.live:25461/images/86eb0cdec1ee41f5176fabf77a35d1f2.png" group-title="24 HORAS 7 DIAS",24/7| DRAGON BALL GT
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/51
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PINKY ELMIRA Y CEREBRO" tvg-logo="http://tv.naturalplus.live:25461/images/74263dae906ec88080dfd53c09a73611.png" group-title="24 HORAS 7 DIAS",24/7| PINKY ELMIRA Y CEREBRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/52
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SCOOBY DOO DONDE ESTAS !" tvg-logo="http://tv.naturalplus.live:25461/images/4d54d1bc4164f187ad27e0be1351fba2.png" group-title="24 HORAS 7 DIAS",24/7| SCOOBY DOO DONDE ESTAS !
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/53
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HALCONES GALACTICOS" tvg-logo="http://tv.naturalplus.live:25461/images/f272135a6bf62d2295e5cdc7908df4f6.png" group-title="24 HORAS 7 DIAS",24/7| HALCONES GALACTICOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/54
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SABRINA LA BRUJA ADOLECENTE" tvg-logo="http://tv.naturalplus.live:25461/images/f21caf3295d403790a70e01ea28eedb5.png" group-title="24 HORAS 7 DIAS",24/7| SABRINA LA BRUJA ADOLECENTE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/55
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SHAGGY Y SCOOBY DOO DETECTIVES " tvg-logo="http://tv.naturalplus.live:25461/images/aeb2e17bcf4fa26af9eb80de06c3d1b6.png" group-title="24 HORAS 7 DIAS",24/7| SHAGGY Y SCOOBY DOO DETECTIVES 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/56
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TIRO LOCO MCGRAW " tvg-logo="http://tv.naturalplus.live:25461/images/79f9ce916f1e77a92ba98a55b06f39ad.png" group-title="24 HORAS 7 DIAS",24/7| TIRO LOCO MCGRAW 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/57
+#EXTINF:-1 tvg-id="" tvg-name="24/7| UNA FAMILIA DE DIEZ" tvg-logo="http://tv.naturalplus.live:25461/images/2bedb4e025328980394f7f4f8f11cbfe.png" group-title="24 HORAS 7 DIAS",24/7| UNA FAMILIA DE DIEZ
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/58
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL SUPER" tvg-logo="http://tv.naturalplus.live:25461/images/c56757496ebaad917ec5f45323fcedb7.png" group-title="24 HORAS 7 DIAS",24/7| DRAGON BALL SUPER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/59
+#EXTINF:-1 tvg-id="" tvg-name="24/7| THUNDERCATS " tvg-logo="http://tv.naturalplus.live:25461/images/326f0c6951635878bb6407f501f1a689.png" group-title="24 HORAS 7 DIAS",24/7| THUNDERCATS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/60
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DRAGON BALL HEROES" tvg-logo="http://tv.naturalplus.live:25461/images/acac1c49a59d98f4eb4e650dbaefa172.png" group-title="24 HORAS 7 DIAS",24/7| DRAGON BALL HEROES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/61
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SUPER AGENTE 86" tvg-logo="http://tv.naturalplus.live:25461/images/6e6e9ea60b81057760735794efaa598f.png" group-title="24 HORAS 7 DIAS",24/7| EL SUPER AGENTE 86
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/62
+#EXTINF:-1 tvg-id="" tvg-name="24/7| THE GOOD DOCTOR" tvg-logo="http://tv.naturalplus.live:25461/images/16857ebeeebe09cdce11936e5a201d09.png" group-title="24 HORAS 7 DIAS",24/7| THE GOOD DOCTOR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/63
+#EXTINF:-1 tvg-id="" tvg-name="24/7| GARGOLAS" tvg-logo="http://tv.naturalplus.live:25461/images/2adf2a1bca77edcebf4e1ffd831df02b.png" group-title="24 HORAS 7 DIAS",24/7| GARGOLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/64
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA CASA DE PAPEL" tvg-logo="http://tv.naturalplus.live:25461/images/76f0dac992627cde11ba30b5b8352b24.png" group-title="24 HORAS 7 DIAS",24/7| LA CASA DE PAPEL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/65
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA HORMIGA ATOMICA " tvg-logo="http://tv.naturalplus.live:25461/images/2d0ea3a62b568dd821f5da92d868bc5c.png" group-title="24 HORAS 7 DIAS",24/7| LA HORMIGA ATOMICA 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/66
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA HORMIGA Y EL OSO HORMIGUERO" tvg-logo="http://tv.naturalplus.live:25461/images/e820164dbc96ce6dd405549c92d2af5c.png" group-title="24 HORAS 7 DIAS",24/7| LA HORMIGA Y EL OSO HORMIGUERO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/67
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL HOMBRE ARAÑA Y SUS SORPRENDENTES AMIGOS" tvg-logo="http://tv.naturalplus.live:25461/images/a1686353b4d3924cfe76907a78cfb4d9.png" group-title="24 HORAS 7 DIAS",24/7| EL HOMBRE ARAÑA Y SUS SORPRENDENTES AMIGOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/68
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ESPIDER-WOMAN" tvg-logo="http://tv.naturalplus.live:25461/images/4885815e27f2874f9e0a06142eba0acb.png" group-title="24 HORAS 7 DIAS",24/7| ESPIDER-WOMAN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/69
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL GRAN MAESTRO" tvg-logo="http://tv.naturalplus.live:25461/images/d71ad32a8f39c02704950fa0b835d64e.png" group-title="24 HORAS 7 DIAS",24/7| EL GRAN MAESTRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/70
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL GATO FELIX" tvg-logo="http://tv.naturalplus.live:25461/images/74380d453bb58ff5d5103e813cd0a8a7.png" group-title="24 HORAS 7 DIAS",24/7| EL GATO FELIX
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/71
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL JUEGO DEL CALAMAR" tvg-logo="http://tv.naturalplus.live:25461/images/304ed0217b05d852d2ebe0ee4b367a09.png" group-title="24 HORAS 7 DIAS",24/7| EL JUEGO DEL CALAMAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/72
+#EXTINF:-1 tvg-id="" tvg-name="24/7| VECINOS" tvg-logo="http://tv.naturalplus.live:25461/images/af7b9184fc48f74fd371c3482420f006.png" group-title="24 HORAS 7 DIAS",24/7| VECINOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/73
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA ABEJA MAYA" tvg-logo="http://tv.naturalplus.live:25461/images/95d26cac86584f5522ca99c74f3091bc.png" group-title="24 HORAS 7 DIAS",24/7| LA ABEJA MAYA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/74
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA MUJER BIONICA" tvg-logo="http://tv.naturalplus.live:25461/images/f02d97f7cab89ed47a7a2a1088e20130.png" group-title="24 HORAS 7 DIAS",24/7| LA MUJER BIONICA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/75
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL PRINCIPE DEL RAP" tvg-logo="http://tv.naturalplus.live:25461/images/e49fa413d769f80c1887383395ce74da.png" group-title="24 HORAS 7 DIAS",24/7| EL PRINCIPE DEL RAP
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/76
+#EXTINF:-1 tvg-id="" tvg-name="24/7|  LAS AVENTURAS DE TOM SAWYER" tvg-logo="http://tv.naturalplus.live:25461/images/834396ee56e22c3f7e868f99a2af8b6c.png" group-title="24 HORAS 7 DIAS",24/7|  LAS AVENTURAS DE TOM SAWYER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/77
+#EXTINF:-1 tvg-id="" tvg-name="24/7| RAMBO,LA FUERZA DE LA LIBERTAD" tvg-logo="http://tv.naturalplus.live:25461/images/6f4fada473c4e8bc0db25dd809ed5bda.png" group-title="24 HORAS 7 DIAS",24/7| RAMBO,LA FUERZA DE LA LIBERTAD
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/78
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ¡ CARLY" tvg-logo="http://tv.naturalplus.live:25461/images/0700e90332996b67e480477e577613b8.png" group-title="24 HORAS 7 DIAS",24/7| ¡ CARLY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/79
+#EXTINF:-1 tvg-id="" tvg-name="24/7| BEN 10" tvg-logo="http://tv.naturalplus.live:25461/images/7509b2e5141131b227b63578cf801db8.png" group-title="24 HORAS 7 DIAS",24/7| BEN 10
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/80
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA SIRENITA " tvg-logo="http://tv.naturalplus.live:25461/images/8ad154803ad8da01f39a4dc355b3aed0.png" group-title="24 HORAS 7 DIAS",24/7| LA SIRENITA 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/81
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA FAMILIA MONSTERS " tvg-logo="http://tv.naturalplus.live:25461/images/21b6725b9590f2a1722e1e5c608c2ec1.png" group-title="24 HORAS 7 DIAS",24/7| LA FAMILIA MONSTERS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/82
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA FAMILIA ADDAMS" tvg-logo="http://tv.naturalplus.live:25461/images/e55feaea6cd3be3624f8397502c51316.png" group-title="24 HORAS 7 DIAS",24/7| LA FAMILIA ADDAMS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/83
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CONAN EL AVENTURERO" tvg-logo="http://tv.naturalplus.live:25461/images/a3b0c8b551477fbd5c386ead8eaab92c.png" group-title="24 HORAS 7 DIAS",24/7| CONAN EL AVENTURERO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/84
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL REY SCORPION" tvg-logo="http://tv.naturalplus.live:25461/images/b45b18ea61fe3fb396a61cb10021d9ed.png" group-title="24 HORAS 7 DIAS",24/7| EL REY SCORPION
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/85
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DURO DE MATAR" tvg-logo="http://tv.naturalplus.live:25461/images/78f75d0f95d3bbaa97d5155b2f774f53.png" group-title="24 HORAS 7 DIAS",24/7| DURO DE MATAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/86
+#EXTINF:-1 tvg-id="" tvg-name="24/7| RUGRATS:AVENTURAS EN PAÑALES" tvg-logo="http://tv.naturalplus.live:25461/images/b848f8939dcd8191ae33758d58b599fe.png" group-title="24 HORAS 7 DIAS",24/7| RUGRATS:AVENTURAS EN PAÑALES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/87
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA MUJER MARAVILLA" tvg-logo="http://tv.naturalplus.live:25461/images/e66ed85352aa4d1febdfa8d0d3ed59cc.png" group-title="24 HORAS 7 DIAS",24/7| LA MUJER MARAVILLA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/88
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS TRES CHIFLADOS " tvg-logo="http://tv.naturalplus.live:25461/images/1d29c9ddb9c8d57e19c1a65ecdc94b78.png" group-title="24 HORAS 7 DIAS",24/7| LOS TRES CHIFLADOS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/89
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE BENNY HILL" tvg-logo="http://tv.naturalplus.live:25461/images/b305f12eb0e00163f08f0c94ac97882e.png" group-title="24 HORAS 7 DIAS",24/7| EL SHOW DE BENNY HILL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/90
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MI POBRE ANGELITO" tvg-logo="http://tv.naturalplus.live:25461/images/88871e434cedfa0569439c26ad2db1d5.png" group-title="24 HORAS 7 DIAS",24/7| MI POBRE ANGELITO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/91
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE LOS LOONEY TUNES" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDELOSLOONEYTUNES24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL SHOW DE LOS LOONEY TUNES
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/92
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CINEMA TERROR" tvg-logo="http://logos.naturalplus.live/logotipos/CINEMATERROR24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| CINEMA TERROR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/93
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL HOMBRE NUCLEAR" tvg-logo="http://tv.naturalplus.live:25461/images/bfadd14a2702b95be6351d18998aa3a2.png" group-title="24 HORAS 7 DIAS",24/7| EL HOMBRE NUCLEAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/94
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOONATICS " tvg-logo="http://logos.naturalplus.live/logotipos/LUNATICOS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LOONATICS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/95
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DEL PAJARO LOCO" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDELPAJAROLOCO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL SHOW DEL PAJARO LOCO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/96
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HULK EL HOMBRE INCREIBLE" tvg-logo="http://logos.naturalplus.live/logotipos/HULKELHOMBREINCREIBLE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| HULK EL HOMBRE INCREIBLE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/97
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL INSPECTOR" tvg-logo="http://logos.naturalplus.live/logotipos/ELINSPECTOR24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL INSPECTOR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/98
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL INSPECTOR ARDILLA" tvg-logo="http://logos.naturalplus.live/logotipos/ELINSPECTORARDILLA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL INSPECTOR ARDILLA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/99
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ENREDADOS" tvg-logo="http://logos.naturalplus.live/logotipos/ENREDADOS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| ENREDADOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/100
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL SHOW DE CANTINFLAS" tvg-logo="http://logos.naturalplus.live/logotipos/ELSHOWDECANTINFLAS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL SHOW DE CANTINFLAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/101
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CANDY CANDY" tvg-logo="http://logos.naturalplus.live/logotipos/CANDYCANDY24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| CANDY CANDY
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/102
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SAILOR MOON" tvg-logo="http://logos.naturalplus.live/logotipos/SAILORMOON24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| SAILOR MOON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/103
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HARLEY QUINN" tvg-logo="http://logos.naturalplus.live/logotipos/HARLEYQUINN24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| HARLEY QUINN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/104
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA DOCTORA QUINN" tvg-logo="http://logos.naturalplus.live/logotipos/LADOCTORAQUINN24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LA DOCTORA QUINN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/105
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MARADONA" tvg-logo="http://logos.naturalplus.live/logotipos/MARADONA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| MARADONA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/106
+#EXTINF:-1 tvg-id="" tvg-name="24/7| FULL HOUSE" tvg-logo="http://logos.naturalplus.live/logotipos/FULLHOUSE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| FULL HOUSE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/107
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ONE PIECE" tvg-logo="http://logos.naturalplus.live/logotipos/ONEPIECE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| ONE PIECE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/108
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA FAMILIA PELUCHE" tvg-logo="http://logos.naturalplus.live/logotipos/LAFAMILIAPELUCHE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LA FAMILIA PELUCHE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/109
+#EXTINF:-1 tvg-id="" tvg-name="24/7| POPEYE" tvg-logo="http://logos.naturalplus.live/logotipos/POPEYE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| POPEYE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/110
+#EXTINF:-1 tvg-id="" tvg-name="24/7| STREET FIGHTER" tvg-logo="http://logos.naturalplus.live/logotipos/STREETFIGHTERIIV24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| STREET FIGHTER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/112
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MI BELLA GENIO" tvg-logo="http://logos.naturalplus.live/logotipos/MIBELLAGENIO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| MI BELLA GENIO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/111
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SLAM DUNK " tvg-logo="http://logos.naturalplus.live/logotipos/SLAMDUNK24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| SLAM DUNK 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/113
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PHINEAS Y FERB " tvg-logo="http://logos.naturalplus.live/logotipos/PHINEASYFERB24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| PHINEAS Y FERB 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/114
+#EXTINF:-1 tvg-id="" tvg-name="24/7| HECHIZADA" tvg-logo="http://logos.naturalplus.live/logotipos/HECHIZADA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| HECHIZADA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/115
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS AÑOS MARAVILLOSOS 24 HORAS" tvg-logo="http://logos.naturalplus.live/logotipos/LOSANOSMARAVILLOSOS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LOS AÑOS MARAVILLOSOS 24 HORAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/116
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS PINGUINOS DE MADAGASCAR" tvg-logo="http://logos.naturalplus.live/logotipos/LOSPINGUINOSDEMADAGASCAR24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LOS PINGUINOS DE MADAGASCAR
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/117
+#EXTINF:-1 tvg-id="" tvg-name="24/7| KICK BUTTOWSKI" tvg-logo="http://logos.naturalplus.live/logotipos/KICKBUTTOWSKI24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| KICK BUTTOWSKI
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/119
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA MASCARA" tvg-logo="http://logos.naturalplus.live/logotipos/LAMASCARA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LA MASCARA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/120
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MALCOLM" tvg-logo="http://logos.naturalplus.live/logotipos/MALCOLM24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| MALCOLM
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/118
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA NIÑERA" tvg-logo="http://logos.naturalplus.live/logotipos/LANIÑERA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LA NIÑERA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/121
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CAPITAN FUTURO" tvg-logo="http://logos.naturalplus.live/logotipos/CAPITANFUTURO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| CAPITAN FUTURO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/122
+#EXTINF:-1 tvg-id="" tvg-name="24/7| STAR TREK " tvg-logo="http://logos.naturalplus.live/logotipos/STARTREKLASERIEANIMADA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| STAR TREK 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/123
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LA VENGANZA DE LAS JUANAS" tvg-logo="http://logos.naturalplus.live/logotipos/LAVENGANZADELASJUANAS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LA VENGANZA DE LAS JUANAS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/124
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TRANSFORMERS LA GUERRA POR CYBERTRON LA TRIGOLIA " tvg-logo="http://logos.naturalplus.live/logotipos/TRANSFORMERSLAGUERRAPORCYBERTRONLATRIGOLIA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| TRANSFORMERS LA GUERRA POR CYBERTRON LA TRIGOLIA 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/125
+#EXTINF:-1 tvg-id="" tvg-name="24/7| 40 Y 20" tvg-logo="http://logos.naturalplus.live/logotipos/40Y2024HORAS.png" group-title="24 HORAS 7 DIAS",24/7| 40 Y 20
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/126
+#EXTINF:-1 tvg-id="" tvg-name="24/7| STARSKY & HUTCH" tvg-logo="http://logos.naturalplus.live/logotipos/STARSKYHUTCH24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| STARSKY & HUTCH
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/127
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DOAREMON" tvg-logo="http://logos.naturalplus.live/logotipos/DORAEMON24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| DOAREMON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/128
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ANIMANIACS " tvg-logo="http://logos.naturalplus.live/logotipos/ANIMANIACS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| ANIMANIACS 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/129
+#EXTINF:-1 tvg-id="" tvg-name="24/7| TARZAN " tvg-logo="http://logos.naturalplus.live/logotipos/TARZAN24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| TARZAN 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/131
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DOCTOR MILAGRO" tvg-logo="http://logos.naturalplus.live/logotipos/DOCTORMILAGRO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| DOCTOR MILAGRO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/130
+#EXTINF:-1 tvg-id="" tvg-name="24/7| ANIMANIACS 1993" tvg-logo="http://logos.naturalplus.live/logotipos/ANIMANIACS199324HORAS.png" group-title="24 HORAS 7 DIAS",24/7| ANIMANIACS 1993
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/132
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS CUATRO FANTASTICOS" tvg-logo="http://logos.naturalplus.live/logotipos/LOS4FANTASTICOS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LOS CUATRO FANTASTICOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/134
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LOS PADRINOS MAGICOS" tvg-logo="http://logos.naturalplus.live/logotipos/LOSPADRINOSMAGICOS24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LOS PADRINOS MAGICOS
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/133
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL ZORRO ANIMADO" tvg-logo="http://logos.naturalplus.live/logotipos/ZORROANIMADO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL ZORRO ANIMADO
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/136
+#EXTINF:-1 tvg-id="" tvg-name="24/7| AQUI NO HAY QUIEN VIVA" tvg-logo="http://logos.naturalplus.live/logotipos/AQUINOHAYQUIENVIVA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| AQUI NO HAY QUIEN VIVA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/135
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL ZORRO " tvg-logo="http://logos.naturalplus.live/logotipos/ELZORRO24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL ZORRO 
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/137
+#EXTINF:-1 tvg-id="" tvg-name="24/7| AUTOMAN" tvg-logo="http://logos.naturalplus.live/logotipos/AUTOMAN24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| AUTOMAN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/138
+#EXTINF:-1 tvg-id="" tvg-name="24/7| PIRATAS DEL CARIBE" tvg-logo="http://logos.naturalplus.live/logotipos/PIRATASDELCARIBE24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| PIRATAS DEL CARIBE
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/141
+#EXTINF:-1 tvg-id="" tvg-name="24/7| BONANZA" tvg-logo="http://logos.naturalplus.live/logotipos/BONANZA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| BONANZA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/139
+#EXTINF:-1 tvg-id="" tvg-name="24/7| EL GRAN CHAPARRAL" tvg-logo="http://logos.naturalplus.live/logotipos/ELGRANCHAPARRAL24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| EL GRAN CHAPARRAL
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/140
+#EXTINF:-1 tvg-id="" tvg-name="24/7| REBELDE 2004" tvg-logo="http://logos.naturalplus.live/logotipos/REBELDE24HORAS2004.png" group-title="24 HORAS 7 DIAS",24/7| REBELDE 2004
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/142
+#EXTINF:-1 tvg-id="" tvg-name="24/7| POKEMON" tvg-logo="http://logos.naturalplus.live/logotipos/POKEMON24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| POKEMON
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/143
+#EXTINF:-1 tvg-id="" tvg-name="24/7| SHIN CHAN" tvg-logo="http://logos.naturalplus.live/logotipos/SHINCHAN24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| SHIN CHAN
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/144
+#EXTINF:-1 tvg-id="" tvg-name="24/7| LUCIFER" tvg-logo="http://logos.naturalplus.live/logotipos/LUCIFER24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| LUCIFER
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/145
+#EXTINF:-1 tvg-id="" tvg-name="24/7| CAPITAN PLANETA" tvg-logo="http://logos.naturalplus.live/logotipos/CAPITANPLANETA24HORAS.png" group-title="24 HORAS 7 DIAS",24/7| CAPITAN PLANETA
+http://tv.naturalplus.live:25461/7m0wjQ3ZEK/KevinCuentasARG/146
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO POP HD" tvg-logo="http://51.15.181.146/iconos/pophbo.jpg" group-title="HD CINEMA (LAT)",HBO POP HD
 http://coresys.dvrdns.org:8080/delgado/delgado/7
 #EXTINF:-1 tvg-id="I373.80115.schedulesdirect.org" tvg-name="HBO Xtreme HD Dual Audio" tvg-logo="http://coresys.dvrdns.org:8080/images/14e5be8534712cdfcf38296392bc2bbf.jpg" group-title="HD CINEMA (LAT)",HBO Xtreme HD Dual Audio
