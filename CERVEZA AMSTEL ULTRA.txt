@@ -39,3 +39,7 @@ http://flash.shortgod.com/viscao/tv5.php?id=34280
 http://flash.shortgod.com/viscao/tv5.php?id=50394
 #EXTINF:-1 tvg-id="tudnusa.mx" tvg-name="SP: MX: TUDN (USA)" tvg-logo="https://i.im.ge/2022/08/05/Fc667D.images.jpg" group-title="LAT - México Deportes ⚽",SP: MX: TUDN (USA)
 http://flash.shortgod.com/viscao/tv5.php?id=50395
+#EXTINF:-1 tvg-id="tudnusa.mx" tvg-name="SP: MX: TUDN (USA)" tvg-logo="https://i.im.ge/2022/08/05/Fc667D.images.jpg" group-title="LAT - México Deportes ⚽",SP: MX: TUDN (USA)
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
+#EXTINF:-1 tvg-id="tudnusa.mx" tvg-name="SP: MX: TUDN (USA)" tvg-logo="https://i.im.ge/2022/08/05/Fc667D.images.jpg" group-title="LAT - México Deportes ⚽",SP: MX: TUDN (USA)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/4640.ts
